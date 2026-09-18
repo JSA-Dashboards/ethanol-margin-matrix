@@ -1,0 +1,1346 @@
+date,commodity,state,variety,trans_mode,price,price_min,price_max,unit
+2026-03-02,Distillers Corn Oil,Illinois,,Truck,66.0,64.0,68.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Indiana,,Truck,67.75,66.5,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Iowa,,Truck,64.0,64.0,64.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Kansas,,Truck,60.0,60.0,60.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Michigan,,Truck,62.9,57.0,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Minnesota,,Truck,62.4,55.0,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Missouri,,Truck,67.75,66.5,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Nebraska,,Truck,62.25,56.0,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Ohio,,Truck,63.5,55.0,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,South Dakota,,Truck,63.44,55.0,69.0,Cents Per Lb
+2026-03-02,Distillers Corn Oil,Wisconsin,,Truck,66.0,66.0,66.0,Cents Per Lb
+2026-03-02,Distillers Grain,Illinois,Dried 10%,Truck,192.5,175.0,210.0,$ Per Ton
+2026-03-02,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-02,Distillers Grain,Indiana,Dried 10%,Truck,171.75,162.0,195.0,$ Per Ton
+2026-03-02,Distillers Grain,Indiana,Dried 10%,Rail,157.0,157.0,157.0,$ Per Ton
+2026-03-02,Distillers Grain,Iowa,Dried 10%,Rail,137.0,137.0,137.0,$ Per Ton
+2026-03-02,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,62.2,50.0,70.0,$ Per Ton
+2026-03-02,Distillers Grain,Iowa,Dried 10%,Truck,154.67,140.0,170.0,$ Per Ton
+2026-03-02,Distillers Grain,Iowa,Wet 65-70%,Truck,52.5,38.0,67.0,$ Per Ton
+2026-03-02,Distillers Grain,Kansas,Wet 65-70%,Truck,51.33,37.0,60.0,$ Per Ton
+2026-03-02,Distillers Grain,Kansas,Dried 10%,Truck,167.5,160.0,175.0,$ Per Ton
+2026-03-02,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-02,Distillers Grain,Michigan,Dried 10%,Truck,167.75,160.0,185.0,$ Per Ton
+2026-03-02,Distillers Grain,Michigan,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-03-02,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-02,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-02,Distillers Grain,Minnesota,Dried 10%,Truck,161.25,155.0,170.0,$ Per Ton
+2026-03-02,Distillers Grain,Missouri,Wet 65-70%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-03-02,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-03-02,Distillers Grain,N/A,Dried 10%,Ocean Vessel,223.75,215.0,235.0,$ Per Ton
+2026-03-02,Distillers Grain,N/A,Dried 10%,Rail,235.0,235.0,235.0,$ Per Ton
+2026-03-02,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-03-02,Distillers Grain,Nebraska,Wet 65-70%,Truck,46.0,35.0,58.0,$ Per Ton
+2026-03-02,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,70.0,60.0,84.0,$ Per Ton
+2026-03-02,Distillers Grain,Nebraska,Dried 10%,Truck,168.14,160.0,185.0,$ Per Ton
+2026-03-02,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-02,Distillers Grain,Ohio,Dried 10%,Truck,179.75,169.0,185.0,$ Per Ton
+2026-03-02,Distillers Grain,Ohio,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-03-02,Distillers Grain,South Dakota,Wet 65-70%,Truck,58.67,54.0,61.0,$ Per Ton
+2026-03-02,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,80.0,80.0,80.0,$ Per Ton
+2026-03-02,Distillers Grain,South Dakota,Dried 10%,Truck,165.0,165.0,165.0,$ Per Ton
+2026-03-02,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,72.0,72.0,72.0,$ Per Ton
+2026-03-02,Distillers Grain,Wisconsin,Dried 10%,Truck,148.0,145.0,151.0,$ Per Ton
+2026-03-02,Ethanol,Illinois,,Truck,1.72,1.72,1.72,$ Per Gallon
+2026-03-02,Ethanol,Illinois,,Rail,1.805,1.79,1.82,$ Per Gallon
+2026-03-02,Ethanol,Indiana,,Rail,1.75,1.75,1.75,$ Per Gallon
+2026-03-02,Ethanol,Iowa,,Truck,1.6367,1.6,1.7,$ Per Gallon
+2026-03-02,Ethanol,Kansas,,Truck,1.66,1.61,1.71,$ Per Gallon
+2026-03-02,Ethanol,Nebraska,,Truck,1.61,1.61,1.61,$ Per Gallon
+2026-03-09,Distillers Corn Oil,Illinois,,Truck,71.75,69.0,74.5,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Indiana,,Truck,67.75,66.5,69.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Iowa,,Truck,69.0,69.0,69.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Kansas,,Truck,60.0,60.0,60.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Michigan,,Truck,67.38,64.0,70.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Minnesota,,Truck,69.1,66.5,71.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Missouri,,Truck,67.75,66.5,69.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Nebraska,,Truck,66.69,57.0,72.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Ohio,,Truck,68.5,66.5,70.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,South Dakota,,Truck,68.5,65.0,71.0,Cents Per Lb
+2026-03-09,Distillers Corn Oil,Wisconsin,,Truck,66.0,66.0,66.0,Cents Per Lb
+2026-03-09,Distillers Grain,Illinois,Dried 10%,Truck,199.0,188.0,210.0,$ Per Ton
+2026-03-09,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-03-09,Distillers Grain,Indiana,Dried 10%,Truck,175.5,168.0,195.0,$ Per Ton
+2026-03-09,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-09,Distillers Grain,Iowa,Dried 10%,Rail,142.0,142.0,142.0,$ Per Ton
+2026-03-09,Distillers Grain,Iowa,Dried 10%,Truck,159.25,140.0,180.0,$ Per Ton
+2026-03-09,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,62.33,55.0,68.0,$ Per Ton
+2026-03-09,Distillers Grain,Iowa,Wet 65-70%,Truck,54.0,38.0,70.0,$ Per Ton
+2026-03-09,Distillers Grain,Kansas,Dried 10%,Truck,175.0,175.0,175.0,$ Per Ton
+2026-03-09,Distillers Grain,Kansas,Wet 65-70%,Truck,50.33,35.0,59.0,$ Per Ton
+2026-03-09,Distillers Grain,Michigan,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-03-09,Distillers Grain,Michigan,Dried 10%,Truck,174.0,168.0,185.0,$ Per Ton
+2026-03-09,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-09,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-09,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-09,Distillers Grain,Minnesota,Dried 10%,Truck,162.0,155.0,170.0,$ Per Ton
+2026-03-09,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-03-09,Distillers Grain,Missouri,Wet 65-70%,Truck,66.0,66.0,66.0,$ Per Ton
+2026-03-09,Distillers Grain,N/A,Dried 10%,Ocean Vessel,219.5,215.0,225.0,$ Per Ton
+2026-03-09,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-03-09,Distillers Grain,N/A,Dried 10%,Rail,235.0,235.0,235.0,$ Per Ton
+2026-03-09,Distillers Grain,Nebraska,Wet 65-70%,Truck,48.0,35.0,64.0,$ Per Ton
+2026-03-09,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,70.75,63.0,84.0,$ Per Ton
+2026-03-09,Distillers Grain,Nebraska,Dried 10%,Truck,169.57,160.0,190.0,$ Per Ton
+2026-03-09,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-09,Distillers Grain,Ohio,Dried 10%,Truck,180.0,170.0,185.0,$ Per Ton
+2026-03-09,Distillers Grain,Ohio,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-03-09,Distillers Grain,South Dakota,Wet 65-70%,Truck,61.33,54.0,65.0,$ Per Ton
+2026-03-09,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,82.67,80.0,84.0,$ Per Ton
+2026-03-09,Distillers Grain,South Dakota,Dried 10%,Truck,170.75,165.0,178.0,$ Per Ton
+2026-03-09,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,72.0,72.0,72.0,$ Per Ton
+2026-03-09,Distillers Grain,Wisconsin,Dried 10%,Truck,155.5,151.0,160.0,$ Per Ton
+2026-03-09,Ethanol,Illinois,,Truck,1.88,1.88,1.88,$ Per Gallon
+2026-03-09,Ethanol,Illinois,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-03-09,Ethanol,Indiana,,Rail,1.83,1.83,1.83,$ Per Gallon
+2026-03-09,Ethanol,Iowa,,Truck,1.605,1.6,1.61,$ Per Gallon
+2026-03-09,Ethanol,Kansas,,Truck,1.6867,1.61,1.79,$ Per Gallon
+2026-03-09,Ethanol,Nebraska,,Truck,1.61,1.61,1.61,$ Per Gallon
+2026-03-16,Distillers Corn Oil,Illinois,,Truck,71.5,69.0,74.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Indiana,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Iowa,,Truck,69.0,69.0,69.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Kansas,,Truck,60.0,60.0,60.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Michigan,,Truck,69.0,64.0,72.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Minnesota,,Truck,70.4,69.0,72.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Missouri,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Nebraska,,Truck,70.0,65.0,75.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Ohio,,Truck,70.67,70.0,72.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,South Dakota,,Truck,70.0,68.0,72.0,Cents Per Lb
+2026-03-16,Distillers Corn Oil,Wisconsin,,Truck,70.0,70.0,70.0,Cents Per Lb
+2026-03-16,Distillers Grain,Illinois,Dried 10%,Truck,195.0,180.0,210.0,$ Per Ton
+2026-03-16,Distillers Grain,Indiana,Dried 10%,Truck,180.25,169.0,195.0,$ Per Ton
+2026-03-16,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-03-16,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-16,Distillers Grain,Iowa,Dried 10%,Rail,142.0,142.0,142.0,$ Per Ton
+2026-03-16,Distillers Grain,Iowa,Dried 10%,Truck,159.5,140.0,180.0,$ Per Ton
+2026-03-16,Distillers Grain,Iowa,Wet 65-70%,Truck,55.0,40.0,70.0,$ Per Ton
+2026-03-16,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,61.0,55.0,68.0,$ Per Ton
+2026-03-16,Distillers Grain,Kansas,Wet 65-70%,Truck,47.33,35.0,57.0,$ Per Ton
+2026-03-16,Distillers Grain,Kansas,Dried 10%,Truck,175.0,175.0,175.0,$ Per Ton
+2026-03-16,Distillers Grain,Michigan,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-03-16,Distillers Grain,Michigan,Dried 10%,Truck,174.5,168.0,185.0,$ Per Ton
+2026-03-16,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-16,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-16,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-16,Distillers Grain,Minnesota,Dried 10%,Truck,163.25,158.0,170.0,$ Per Ton
+2026-03-16,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-03-16,Distillers Grain,Missouri,Wet 65-70%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-03-16,Distillers Grain,N/A,Dried 10%,Ocean Vessel,219.5,215.0,225.0,$ Per Ton
+2026-03-16,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-03-16,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-03-16,Distillers Grain,Nebraska,Wet 65-70%,Truck,48.0,35.0,64.0,$ Per Ton
+2026-03-16,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,71.75,62.0,88.0,$ Per Ton
+2026-03-16,Distillers Grain,Nebraska,Dried 10%,Truck,172.86,160.0,190.0,$ Per Ton
+2026-03-16,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-16,Distillers Grain,Ohio,Dried 10%,Truck,175.75,168.0,185.0,$ Per Ton
+2026-03-16,Distillers Grain,Ohio,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-03-16,Distillers Grain,South Dakota,Wet 65-70%,Truck,59.0,54.0,64.0,$ Per Ton
+2026-03-16,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,82.0,80.0,84.0,$ Per Ton
+2026-03-16,Distillers Grain,South Dakota,Dried 10%,Truck,168.33,165.0,170.0,$ Per Ton
+2026-03-16,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,74.0,74.0,74.0,$ Per Ton
+2026-03-16,Distillers Grain,Wisconsin,Dried 10%,Truck,159.0,158.0,160.0,$ Per Ton
+2026-03-16,Ethanol,Illinois,,Truck,1.87,1.87,1.87,$ Per Gallon
+2026-03-16,Ethanol,Illinois,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-03-16,Ethanol,Indiana,,Rail,1.83,1.83,1.83,$ Per Gallon
+2026-03-16,Ethanol,Iowa,,Truck,1.605,1.6,1.61,$ Per Gallon
+2026-03-16,Ethanol,Kansas,,Truck,1.69,1.61,1.8,$ Per Gallon
+2026-03-16,Ethanol,Nebraska,,Truck,1.61,1.61,1.61,$ Per Gallon
+2026-03-23,Distillers Corn Oil,Illinois,,Truck,73.5,71.0,76.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Indiana,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Iowa,,Truck,71.0,71.0,71.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Kansas,,Truck,60.0,60.0,60.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Michigan,,Truck,70.75,70.0,72.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Minnesota,,Truck,70.8,70.0,72.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Missouri,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Nebraska,,Truck,70.63,65.0,75.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Ohio,,Truck,70.67,70.0,72.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,South Dakota,,Truck,70.5,68.0,72.0,Cents Per Lb
+2026-03-23,Distillers Corn Oil,Wisconsin,,Truck,73.0,73.0,73.0,Cents Per Lb
+2026-03-23,Distillers Grain,Illinois,Dried 10%,Truck,202.0,188.0,216.0,$ Per Ton
+2026-03-23,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-23,Distillers Grain,Indiana,Dried 10%,Truck,177.25,169.0,195.0,$ Per Ton
+2026-03-23,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-03-23,Distillers Grain,Iowa,Dried 10%,Rail,142.0,142.0,142.0,$ Per Ton
+2026-03-23,Distillers Grain,Iowa,Dried 10%,Truck,163.88,145.0,200.0,$ Per Ton
+2026-03-23,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,62.67,60.0,68.0,$ Per Ton
+2026-03-23,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,40.0,75.0,$ Per Ton
+2026-03-23,Distillers Grain,Kansas,Dried 10%,Truck,180.0,175.0,185.0,$ Per Ton
+2026-03-23,Distillers Grain,Kansas,Wet 65-70%,Truck,50.67,45.0,57.0,$ Per Ton
+2026-03-23,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-23,Distillers Grain,Michigan,Dried 10%,Truck,177.0,168.0,195.0,$ Per Ton
+2026-03-23,Distillers Grain,Michigan,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-03-23,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-23,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-03-23,Distillers Grain,Minnesota,Dried 10%,Truck,163.0,157.0,170.0,$ Per Ton
+2026-03-23,Distillers Grain,Missouri,Wet 65-70%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-03-23,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-03-23,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-03-23,Distillers Grain,N/A,Dried 10%,Ocean Vessel,229.75,215.0,239.0,$ Per Ton
+2026-03-23,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-03-23,Distillers Grain,Nebraska,Wet 65-70%,Truck,49.67,40.0,64.0,$ Per Ton
+2026-03-23,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,73.0,62.0,88.0,$ Per Ton
+2026-03-23,Distillers Grain,Nebraska,Dried 10%,Truck,177.14,165.0,190.0,$ Per Ton
+2026-03-23,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-23,Distillers Grain,Ohio,Dried 10%,Truck,183.75,170.0,195.0,$ Per Ton
+2026-03-23,Distillers Grain,Ohio,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-03-23,Distillers Grain,South Dakota,Wet 65-70%,Truck,55.5,54.0,57.0,$ Per Ton
+2026-03-23,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,79.0,78.0,80.0,$ Per Ton
+2026-03-23,Distillers Grain,South Dakota,Dried 10%,Truck,173.33,165.0,180.0,$ Per Ton
+2026-03-23,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-03-23,Distillers Grain,Wisconsin,Dried 10%,Truck,161.0,160.0,162.0,$ Per Ton
+2026-03-23,Ethanol,Illinois,,Rail,1.99,1.98,2.0,$ Per Gallon
+2026-03-23,Ethanol,Illinois,,Truck,1.96,1.96,1.96,$ Per Gallon
+2026-03-23,Ethanol,Indiana,,Rail,1.985,1.97,2.0,$ Per Gallon
+2026-03-23,Ethanol,Iowa,,Truck,1.755,1.61,1.9,$ Per Gallon
+2026-03-23,Ethanol,Kansas,,Truck,1.8533,1.78,1.91,$ Per Gallon
+2026-03-23,Ethanol,Nebraska,,Truck,1.61,1.61,1.61,$ Per Gallon
+2026-03-30,Distillers Corn Oil,Illinois,,Truck,74.25,71.0,77.5,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Indiana,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Iowa,,Truck,71.0,71.0,71.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Kansas,,Truck,68.0,68.0,68.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Michigan,,Truck,71.5,70.0,73.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Minnesota,,Truck,70.8,70.0,72.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Missouri,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Nebraska,,Truck,71.0,65.0,77.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Ohio,,Truck,70.67,70.0,72.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,South Dakota,,Truck,71.0,68.0,75.0,Cents Per Lb
+2026-03-30,Distillers Corn Oil,Wisconsin,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-03-30,Distillers Grain,Illinois,Dried 10%,Truck,201.5,188.0,215.0,$ Per Ton
+2026-03-30,Distillers Grain,Indiana,Dried 10%,Truck,177.25,169.0,195.0,$ Per Ton
+2026-03-30,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-30,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-03-30,Distillers Grain,Iowa,Dried 10%,Rail,142.0,142.0,142.0,$ Per Ton
+2026-03-30,Distillers Grain,Iowa,Dried 10%,Truck,163.88,145.0,200.0,$ Per Ton
+2026-03-30,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,40.0,75.0,$ Per Ton
+2026-03-30,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,62.67,60.0,68.0,$ Per Ton
+2026-03-30,Distillers Grain,Kansas,Wet 65-70%,Truck,50.67,45.0,57.0,$ Per Ton
+2026-03-30,Distillers Grain,Kansas,Dried 10%,Truck,180.0,175.0,185.0,$ Per Ton
+2026-03-30,Distillers Grain,Michigan,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-03-30,Distillers Grain,Michigan,Dried 10%,Truck,177.0,168.0,195.0,$ Per Ton
+2026-03-30,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-30,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-03-30,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-03-30,Distillers Grain,Minnesota,Dried 10%,Truck,164.25,157.0,170.0,$ Per Ton
+2026-03-30,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-03-30,Distillers Grain,Missouri,Wet 65-70%,Truck,69.0,69.0,69.0,$ Per Ton
+2026-03-30,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-03-30,Distillers Grain,N/A,Dried 10%,Ocean Vessel,228.25,215.0,235.0,$ Per Ton
+2026-03-30,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-03-30,Distillers Grain,Nebraska,Wet 65-70%,Truck,57.5,55.0,64.0,$ Per Ton
+2026-03-30,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,73.0,62.0,88.0,$ Per Ton
+2026-03-30,Distillers Grain,Nebraska,Dried 10%,Truck,179.29,165.0,190.0,$ Per Ton
+2026-03-30,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-03-30,Distillers Grain,Ohio,Dried 10%,Truck,183.75,170.0,195.0,$ Per Ton
+2026-03-30,Distillers Grain,Ohio,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-03-30,Distillers Grain,South Dakota,Wet 65-70%,Truck,55.5,54.0,57.0,$ Per Ton
+2026-03-30,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,79.0,78.0,80.0,$ Per Ton
+2026-03-30,Distillers Grain,South Dakota,Dried 10%,Truck,172.67,165.0,180.0,$ Per Ton
+2026-03-30,Distillers Grain,Wisconsin,Dried 10%,Truck,162.0,162.0,162.0,$ Per Ton
+2026-03-30,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-03-30,Ethanol,Illinois,,Truck,2.04,2.04,2.04,$ Per Gallon
+2026-03-30,Ethanol,Illinois,,Rail,1.99,1.98,2.0,$ Per Gallon
+2026-03-30,Ethanol,Indiana,,Rail,1.975,1.97,1.98,$ Per Gallon
+2026-03-30,Ethanol,Iowa,,Truck,1.74,1.61,1.87,$ Per Gallon
+2026-03-30,Ethanol,Kansas,,Truck,1.8533,1.78,1.91,$ Per Gallon
+2026-03-30,Ethanol,Nebraska,,Truck,1.61,1.61,1.61,$ Per Gallon
+2026-04-06,Distillers Corn Oil,Illinois,,Truck,76.0,74.0,78.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Indiana,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Iowa,,Truck,71.95,67.5,78.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Kansas,,Truck,68.0,68.0,68.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Michigan,,Truck,72.0,70.0,74.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Minnesota,,Truck,71.4,70.0,74.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Missouri,,Truck,71.0,70.0,72.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Nebraska,,Truck,71.25,67.0,77.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Ohio,,Truck,70.67,70.0,72.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,South Dakota,,Truck,72.0,70.0,75.0,Cents Per Lb
+2026-04-06,Distillers Corn Oil,Wisconsin,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-04-06,Distillers Grain,Illinois,Dried 10%,Truck,199.0,193.0,205.0,$ Per Ton
+2026-04-06,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-04-06,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-06,Distillers Grain,Indiana,Dried 10%,Truck,178.0,169.0,195.0,$ Per Ton
+2026-04-06,Distillers Grain,Iowa,Dried 10%,Rail,142.0,142.0,142.0,$ Per Ton
+2026-04-06,Distillers Grain,Iowa,Dried 10%,Truck,165.89,145.0,200.0,$ Per Ton
+2026-04-06,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,69.5,60.0,85.0,$ Per Ton
+2026-04-06,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,40.0,75.0,$ Per Ton
+2026-04-06,Distillers Grain,Kansas,Wet 65-70%,Truck,59.0,57.0,60.0,$ Per Ton
+2026-04-06,Distillers Grain,Kansas,Dried 10%,Truck,192.5,185.0,200.0,$ Per Ton
+2026-04-06,Distillers Grain,Michigan,Dried 10%,Truck,177.5,168.0,195.0,$ Per Ton
+2026-04-06,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-06,Distillers Grain,Michigan,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-04-06,Distillers Grain,Minnesota,Dried 10%,Truck,166.25,160.0,170.0,$ Per Ton
+2026-04-06,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-04-06,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-04-06,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-04-06,Distillers Grain,Missouri,Wet 65-70%,Truck,69.0,69.0,69.0,$ Per Ton
+2026-04-06,Distillers Grain,N/A,Dried 10%,Ocean Vessel,237.0,225.0,249.0,$ Per Ton
+2026-04-06,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-04-06,Distillers Grain,N/A,Dried 10%,Rail,245.0,245.0,245.0,$ Per Ton
+2026-04-06,Distillers Grain,Nebraska,Wet 65-70%,Truck,57.5,55.0,64.0,$ Per Ton
+2026-04-06,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,72.33,68.0,75.0,$ Per Ton
+2026-04-06,Distillers Grain,Nebraska,Dried 10%,Truck,182.5,170.0,195.0,$ Per Ton
+2026-04-06,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-06,Distillers Grain,Ohio,Dried 10%,Truck,183.75,170.0,195.0,$ Per Ton
+2026-04-06,Distillers Grain,Ohio,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-04-06,Distillers Grain,South Dakota,Wet 65-70%,Truck,55.5,54.0,57.0,$ Per Ton
+2026-04-06,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,77.5,77.0,78.0,$ Per Ton
+2026-04-06,Distillers Grain,South Dakota,Dried 10%,Truck,168.33,165.0,175.0,$ Per Ton
+2026-04-06,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-04-06,Distillers Grain,Wisconsin,Dried 10%,Truck,161.0,160.0,162.0,$ Per Ton
+2026-04-06,Ethanol,Illinois,,Rail,2.0,1.99,2.01,$ Per Gallon
+2026-04-06,Ethanol,Illinois,,Truck,2.04,2.04,2.04,$ Per Gallon
+2026-04-06,Ethanol,Indiana,,Rail,2.0,1.99,2.01,$ Per Gallon
+2026-04-06,Ethanol,Iowa,,Truck,1.935,1.87,2.0,$ Per Gallon
+2026-04-06,Ethanol,Kansas,,Truck,1.84,1.78,1.87,$ Per Gallon
+2026-04-13,Distillers Corn Oil,Illinois,,Truck,78.0,75.0,81.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Indiana,,Truck,76.5,76.0,77.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Iowa,,Truck,74.7,67.0,78.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Kansas,,Truck,68.0,68.0,68.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Michigan,,Truck,74.75,71.0,77.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Minnesota,,Truck,76.2,75.0,78.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Missouri,,Truck,76.5,76.0,77.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Nebraska,,Truck,74.71,67.0,78.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Ohio,,Truck,76.0,75.0,77.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,South Dakota,,Truck,76.25,75.0,78.0,Cents Per Lb
+2026-04-13,Distillers Corn Oil,Wisconsin,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-04-13,Distillers Grain,Illinois,Dried 10%,Truck,202.5,195.0,210.0,$ Per Ton
+2026-04-13,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-13,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-04-13,Distillers Grain,Indiana,Dried 10%,Truck,179.75,169.0,195.0,$ Per Ton
+2026-04-13,Distillers Grain,Iowa,Dried 10%,Rail,142.0,142.0,142.0,$ Per Ton
+2026-04-13,Distillers Grain,Iowa,Dried 10%,Truck,166.5,163.0,170.0,$ Per Ton
+2026-04-13,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,69.5,60.0,85.0,$ Per Ton
+2026-04-13,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,40.0,75.0,$ Per Ton
+2026-04-13,Distillers Grain,Kansas,Wet 65-70%,Truck,59.0,57.0,60.0,$ Per Ton
+2026-04-13,Distillers Grain,Kansas,Dried 10%,Truck,192.5,185.0,200.0,$ Per Ton
+2026-04-13,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-13,Distillers Grain,Michigan,Dried 10%,Truck,177.5,168.0,195.0,$ Per Ton
+2026-04-13,Distillers Grain,Michigan,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-04-13,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-04-13,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,70.0,70.0,70.0,$ Per Ton
+2026-04-13,Distillers Grain,Minnesota,Dried 10%,Truck,166.25,160.0,170.0,$ Per Ton
+2026-04-13,Distillers Grain,Missouri,Wet 65-70%,Truck,69.0,69.0,69.0,$ Per Ton
+2026-04-13,Distillers Grain,Missouri,Dried 10%,Truck,187.0,175.0,199.0,$ Per Ton
+2026-04-13,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-04-13,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-04-13,Distillers Grain,N/A,Dried 10%,Ocean Vessel,240.0,225.0,255.0,$ Per Ton
+2026-04-13,Distillers Grain,Nebraska,Wet 65-70%,Truck,57.5,55.0,64.0,$ Per Ton
+2026-04-13,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,78.5,70.0,95.0,$ Per Ton
+2026-04-13,Distillers Grain,Nebraska,Dried 10%,Truck,185.83,170.0,210.0,$ Per Ton
+2026-04-13,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-13,Distillers Grain,Ohio,Dried 10%,Truck,186.25,170.0,200.0,$ Per Ton
+2026-04-13,Distillers Grain,Ohio,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-04-13,Distillers Grain,South Dakota,Wet 65-70%,Truck,55.5,54.0,57.0,$ Per Ton
+2026-04-13,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,81.5,78.0,85.0,$ Per Ton
+2026-04-13,Distillers Grain,South Dakota,Dried 10%,Truck,173.33,165.0,180.0,$ Per Ton
+2026-04-13,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-04-13,Distillers Grain,Wisconsin,Dried 10%,Truck,161.0,160.0,162.0,$ Per Ton
+2026-04-13,Ethanol,Illinois,,Truck,1.92,1.92,1.92,$ Per Gallon
+2026-04-13,Ethanol,Illinois,,Rail,1.925,1.925,1.925,$ Per Gallon
+2026-04-13,Ethanol,Indiana,,Rail,1.925,1.925,1.925,$ Per Gallon
+2026-04-13,Ethanol,Iowa,,Truck,1.885,1.77,2.0,$ Per Gallon
+2026-04-13,Ethanol,Kansas,,Truck,1.84,1.81,1.88,$ Per Gallon
+2026-04-20,Distillers Corn Oil,Illinois,,Truck,78.5,75.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Indiana,,Truck,81.5,81.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Iowa,,Truck,76.9,67.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Kansas,,Truck,68.0,68.0,68.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Michigan,,Truck,79.0,75.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Minnesota,,Truck,78.2,75.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Missouri,,Truck,81.5,81.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Nebraska,,Truck,77.67,67.0,83.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Ohio,,Truck,79.33,75.0,82.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,South Dakota,,Truck,79.14,75.0,84.0,Cents Per Lb
+2026-04-20,Distillers Corn Oil,Wisconsin,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-04-20,Distillers Grain,Illinois,Dried 10%,Truck,204.5,195.0,214.0,$ Per Ton
+2026-04-20,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-20,Distillers Grain,Indiana,Dried 10%,Rail,174.0,174.0,174.0,$ Per Ton
+2026-04-20,Distillers Grain,Indiana,Dried 10%,Truck,183.0,173.0,195.0,$ Per Ton
+2026-04-20,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,40.0,75.0,$ Per Ton
+2026-04-20,Distillers Grain,Iowa,Dried 10%,Rail,150.0,150.0,150.0,$ Per Ton
+2026-04-20,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,65.0,55.0,75.0,$ Per Ton
+2026-04-20,Distillers Grain,Iowa,Dried 10%,Truck,166.5,163.0,170.0,$ Per Ton
+2026-04-20,Distillers Grain,Kansas,Wet 65-70%,Truck,59.67,57.0,62.0,$ Per Ton
+2026-04-20,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-04-20,Distillers Grain,Michigan,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-04-20,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-20,Distillers Grain,Michigan,Dried 10%,Truck,179.0,173.0,195.0,$ Per Ton
+2026-04-20,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-04-20,Distillers Grain,Minnesota,Dried 10%,Truck,170.0,165.0,180.0,$ Per Ton
+2026-04-20,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,70.0,70.0,70.0,$ Per Ton
+2026-04-20,Distillers Grain,Missouri,Wet 65-70%,Truck,69.0,69.0,69.0,$ Per Ton
+2026-04-20,Distillers Grain,Missouri,Dried 10%,Truck,197.0,195.0,199.0,$ Per Ton
+2026-04-20,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-04-20,Distillers Grain,N/A,Dried 10%,Rail,245.0,245.0,245.0,$ Per Ton
+2026-04-20,Distillers Grain,N/A,Dried 10%,Ocean Vessel,240.0,225.0,255.0,$ Per Ton
+2026-04-20,Distillers Grain,Nebraska,Dried 10%,Truck,191.71,170.0,210.0,$ Per Ton
+2026-04-20,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,83.0,74.0,95.0,$ Per Ton
+2026-04-20,Distillers Grain,Nebraska,Wet 65-70%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-04-20,Distillers Grain,Ohio,Dried 10%,Truck,191.5,176.0,210.0,$ Per Ton
+2026-04-20,Distillers Grain,Ohio,Dried 10%,Rail,175.0,175.0,175.0,$ Per Ton
+2026-04-20,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-20,Distillers Grain,South Dakota,Dried 10%,Truck,178.33,170.0,185.0,$ Per Ton
+2026-04-20,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,81.5,78.0,85.0,$ Per Ton
+2026-04-20,Distillers Grain,South Dakota,Wet 65-70%,Truck,60.5,54.0,67.0,$ Per Ton
+2026-04-20,Distillers Grain,Wisconsin,Dried 10%,Truck,161.0,160.0,162.0,$ Per Ton
+2026-04-20,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-04-20,Ethanol,Illinois,,Truck,1.88,1.88,1.88,$ Per Gallon
+2026-04-20,Ethanol,Illinois,,Rail,1.925,1.925,1.925,$ Per Gallon
+2026-04-20,Ethanol,Indiana,,Rail,1.925,1.925,1.925,$ Per Gallon
+2026-04-20,Ethanol,Iowa,,Truck,1.885,1.77,2.0,$ Per Gallon
+2026-04-20,Ethanol,Kansas,,Truck,1.8367,1.8,1.88,$ Per Gallon
+2026-04-27,Distillers Corn Oil,Illinois,,Truck,80.0,78.0,82.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Indiana,,Truck,81.5,81.0,82.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Iowa,,Truck,78.0,78.0,78.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Kansas,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Michigan,,Truck,79.0,75.0,82.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Minnesota,,Truck,81.2,78.0,85.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Missouri,,Truck,81.5,81.0,82.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Nebraska,,Truck,79.67,67.0,85.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Ohio,,Truck,81.0,80.0,82.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,South Dakota,,Truck,82.0,78.0,85.0,Cents Per Lb
+2026-04-27,Distillers Corn Oil,Wisconsin,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-04-27,Distillers Grain,Illinois,Dried 10%,Truck,204.5,195.0,214.0,$ Per Ton
+2026-04-27,Distillers Grain,Indiana,Dried 10%,Truck,184.75,174.0,205.0,$ Per Ton
+2026-04-27,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-27,Distillers Grain,Indiana,Dried 10%,Rail,174.0,174.0,174.0,$ Per Ton
+2026-04-27,Distillers Grain,Iowa,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-04-27,Distillers Grain,Iowa,Dried 10%,Truck,173.8,155.0,190.0,$ Per Ton
+2026-04-27,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,40.0,75.0,$ Per Ton
+2026-04-27,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,76.6,55.0,95.0,$ Per Ton
+2026-04-27,Distillers Grain,Kansas,Wet 65-70%,Truck,53.33,40.0,63.0,$ Per Ton
+2026-04-27,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-04-27,Distillers Grain,Michigan,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-04-27,Distillers Grain,Michigan,Dried 10%,Truck,182.0,173.0,205.0,$ Per Ton
+2026-04-27,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-27,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,70.0,70.0,70.0,$ Per Ton
+2026-04-27,Distillers Grain,Minnesota,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-04-27,Distillers Grain,Minnesota,Dried 10%,Truck,177.5,170.0,190.0,$ Per Ton
+2026-04-27,Distillers Grain,Missouri,Dried 10%,Truck,197.0,195.0,199.0,$ Per Ton
+2026-04-27,Distillers Grain,Missouri,Wet 65-70%,Truck,69.0,69.0,69.0,$ Per Ton
+2026-04-27,Distillers Grain,N/A,Dried 10%,Ocean Vessel,229.5,215.0,237.0,$ Per Ton
+2026-04-27,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-04-27,Distillers Grain,N/A,Dried 10%,Rail,245.0,245.0,245.0,$ Per Ton
+2026-04-27,Distillers Grain,Nebraska,Wet 65-70%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-04-27,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,81.33,74.0,95.0,$ Per Ton
+2026-04-27,Distillers Grain,Nebraska,Dried 10%,Truck,189.57,170.0,200.0,$ Per Ton
+2026-04-27,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-04-27,Distillers Grain,Ohio,Dried 10%,Truck,191.5,176.0,205.0,$ Per Ton
+2026-04-27,Distillers Grain,Ohio,Dried 10%,Rail,175.0,175.0,175.0,$ Per Ton
+2026-04-27,Distillers Grain,South Dakota,Wet 65-70%,Truck,55.5,54.0,57.0,$ Per Ton
+2026-04-27,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,84.0,78.0,90.0,$ Per Ton
+2026-04-27,Distillers Grain,South Dakota,Dried 10%,Truck,180.33,176.0,185.0,$ Per Ton
+2026-04-27,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-04-27,Distillers Grain,Wisconsin,Dried 10%,Truck,161.0,160.0,162.0,$ Per Ton
+2026-04-27,Ethanol,Illinois,,Truck,1.98,1.98,1.98,$ Per Gallon
+2026-04-27,Ethanol,Illinois,,Rail,2.03,2.03,2.03,$ Per Gallon
+2026-04-27,Ethanol,Indiana,,Rail,2.0,2.0,2.0,$ Per Gallon
+2026-04-27,Ethanol,Iowa,,Truck,1.835,1.77,1.9,$ Per Gallon
+2026-04-27,Ethanol,Kansas,,Truck,1.8767,1.83,1.92,$ Per Gallon
+2026-05-04,Distillers Corn Oil,Illinois,,Truck,82.5,78.0,87.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Indiana,,Truck,82.5,82.0,83.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Iowa,,Truck,78.0,78.0,78.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Kansas,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Michigan,,Truck,79.5,75.0,83.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Minnesota,,Truck,82.0,78.0,84.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Missouri,,Truck,82.5,82.0,83.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Nebraska,,Truck,83.63,82.0,86.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Ohio,,Truck,82.67,82.0,83.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,South Dakota,,Truck,82.29,78.0,85.0,Cents Per Lb
+2026-05-04,Distillers Corn Oil,Wisconsin,,Truck,83.0,83.0,83.0,Cents Per Lb
+2026-05-04,Distillers Grain,Illinois,Dried 10%,Truck,205.0,195.0,215.0,$ Per Ton
+2026-05-04,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-04,Distillers Grain,Indiana,Dried 10%,Truck,185.5,174.0,208.0,$ Per Ton
+2026-05-04,Distillers Grain,Indiana,Dried 10%,Rail,174.0,174.0,174.0,$ Per Ton
+2026-05-04,Distillers Grain,Iowa,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-05-04,Distillers Grain,Iowa,Dried 10%,Truck,172.3,150.0,190.0,$ Per Ton
+2026-05-04,Distillers Grain,Iowa,Wet 65-70%,Truck,55.0,40.0,70.0,$ Per Ton
+2026-05-04,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,74.6,55.0,95.0,$ Per Ton
+2026-05-04,Distillers Grain,Kansas,Wet 65-70%,Truck,53.33,40.0,63.0,$ Per Ton
+2026-05-04,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-05-04,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-04,Distillers Grain,Michigan,Dried 10%,Truck,184.25,173.0,208.0,$ Per Ton
+2026-05-04,Distillers Grain,Michigan,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-05-04,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-05-04,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,70.0,70.0,70.0,$ Per Ton
+2026-05-04,Distillers Grain,Minnesota,Dried 10%,Truck,177.5,170.0,185.0,$ Per Ton
+2026-05-04,Distillers Grain,Missouri,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-05-04,Distillers Grain,Missouri,Dried 10%,Truck,197.0,195.0,199.0,$ Per Ton
+2026-05-04,Distillers Grain,N/A,Dried 10%,Ocean Vessel,229.25,215.0,238.0,$ Per Ton
+2026-05-04,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-05-04,Distillers Grain,N/A,Dried 10%,Rail,245.0,245.0,245.0,$ Per Ton
+2026-05-04,Distillers Grain,Nebraska,Wet 65-70%,Truck,62.5,55.0,65.0,$ Per Ton
+2026-05-04,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,84.0,75.0,93.0,$ Per Ton
+2026-05-04,Distillers Grain,Nebraska,Dried 10%,Truck,185.83,175.0,200.0,$ Per Ton
+2026-05-04,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-04,Distillers Grain,Ohio,Dried 10%,Truck,192.25,176.0,208.0,$ Per Ton
+2026-05-04,Distillers Grain,Ohio,Dried 10%,Rail,175.0,175.0,175.0,$ Per Ton
+2026-05-04,Distillers Grain,South Dakota,Wet 65-70%,Truck,55.5,54.0,57.0,$ Per Ton
+2026-05-04,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,81.5,78.0,85.0,$ Per Ton
+2026-05-04,Distillers Grain,South Dakota,Dried 10%,Truck,180.67,177.0,185.0,$ Per Ton
+2026-05-04,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,76.0,76.0,76.0,$ Per Ton
+2026-05-04,Distillers Grain,Wisconsin,Dried 10%,Truck,164.5,164.0,165.0,$ Per Ton
+2026-05-04,Ethanol,Illinois,,Truck,2.03,2.03,2.03,$ Per Gallon
+2026-05-04,Ethanol,Illinois,,Rail,1.99,1.99,1.99,$ Per Gallon
+2026-05-04,Ethanol,Indiana,,Rail,1.99,1.99,1.99,$ Per Gallon
+2026-05-04,Ethanol,Iowa,,Truck,1.85,1.8,1.9,$ Per Gallon
+2026-05-04,Ethanol,Kansas,,Truck,1.8667,1.83,1.89,$ Per Gallon
+2026-05-11,Distillers Corn Oil,Illinois,,Truck,84.0,83.0,85.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Indiana,,Truck,82.5,82.0,83.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Iowa,,Truck,78.0,78.0,78.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Kansas,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Michigan,,Truck,81.25,78.0,83.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Minnesota,,Truck,82.0,78.0,84.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Missouri,,Truck,82.5,82.0,83.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Nebraska,,Truck,83.63,82.0,86.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Ohio,,Truck,82.67,82.0,83.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,South Dakota,,Truck,82.14,78.0,84.0,Cents Per Lb
+2026-05-11,Distillers Corn Oil,Wisconsin,,Truck,83.0,83.0,83.0,Cents Per Lb
+2026-05-11,Distillers Grain,Illinois,Dried 10%,Truck,202.5,195.0,210.0,$ Per Ton
+2026-05-11,Distillers Grain,Indiana,Dried 10%,Rail,174.0,174.0,174.0,$ Per Ton
+2026-05-11,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-11,Distillers Grain,Indiana,Dried 10%,Truck,186.0,175.0,208.0,$ Per Ton
+2026-05-11,Distillers Grain,Iowa,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-05-11,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,69.6,55.0,85.0,$ Per Ton
+2026-05-11,Distillers Grain,Iowa,Dried 10%,Truck,170.8,150.0,190.0,$ Per Ton
+2026-05-11,Distillers Grain,Iowa,Wet 65-70%,Truck,55.0,40.0,70.0,$ Per Ton
+2026-05-11,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-05-11,Distillers Grain,Kansas,Wet 65-70%,Truck,53.33,40.0,65.0,$ Per Ton
+2026-05-11,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-11,Distillers Grain,Michigan,Dried 10%,Truck,183.0,173.0,208.0,$ Per Ton
+2026-05-11,Distillers Grain,Michigan,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-05-11,Distillers Grain,Minnesota,Dried 10%,Truck,177.5,170.0,185.0,$ Per Ton
+2026-05-11,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-05-11,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-05-11,Distillers Grain,Missouri,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-05-11,Distillers Grain,Missouri,Dried 10%,Truck,197.0,195.0,199.0,$ Per Ton
+2026-05-11,Distillers Grain,N/A,Dried 10%,Rail,245.0,245.0,245.0,$ Per Ton
+2026-05-11,Distillers Grain,N/A,Dried 10%,Rail/Barge,170.0,170.0,170.0,$ Per Ton
+2026-05-11,Distillers Grain,N/A,Dried 10%,Ocean Vessel,238.0,225.0,251.0,$ Per Ton
+2026-05-11,Distillers Grain,Nebraska,Wet 65-70%,Truck,61.25,55.0,65.0,$ Per Ton
+2026-05-11,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,80.5,75.0,86.0,$ Per Ton
+2026-05-11,Distillers Grain,Nebraska,Dried 10%,Truck,184.67,175.0,200.0,$ Per Ton
+2026-05-11,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-11,Distillers Grain,Ohio,Dried 10%,Rail,175.0,175.0,175.0,$ Per Ton
+2026-05-11,Distillers Grain,Ohio,Dried 10%,Truck,193.25,180.0,208.0,$ Per Ton
+2026-05-11,Distillers Grain,South Dakota,Wet 65-70%,Truck,54.5,54.0,55.0,$ Per Ton
+2026-05-11,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,81.5,78.0,85.0,$ Per Ton
+2026-05-11,Distillers Grain,South Dakota,Dried 10%,Truck,178.33,170.0,185.0,$ Per Ton
+2026-05-11,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,76.0,76.0,76.0,$ Per Ton
+2026-05-11,Distillers Grain,Wisconsin,Dried 10%,Truck,164.5,164.0,165.0,$ Per Ton
+2026-05-11,Ethanol,Illinois,,Truck,1.89,1.89,1.89,$ Per Gallon
+2026-05-11,Ethanol,Illinois,,Rail,1.98,1.98,1.98,$ Per Gallon
+2026-05-11,Ethanol,Indiana,,Rail,1.96,1.96,1.96,$ Per Gallon
+2026-05-11,Ethanol,Iowa,,Truck,1.85,1.8,1.9,$ Per Gallon
+2026-05-11,Ethanol,Kansas,,Truck,1.8633,1.83,1.88,$ Per Gallon
+2026-05-18,Distillers Corn Oil,Illinois,,Truck,85.33,83.0,89.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Indiana,,Truck,82.5,82.0,83.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Iowa,,Truck,83.5,83.0,84.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Kansas,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Michigan,,Truck,82.6,81.0,84.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Minnesota,,Truck,83.17,82.0,84.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Missouri,,Truck,82.5,82.0,83.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Nebraska,,Truck,83.56,80.0,86.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Ohio,,Truck,82.67,82.0,83.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,South Dakota,,Truck,82.88,81.0,84.0,Cents Per Lb
+2026-05-18,Distillers Corn Oil,Wisconsin,,Truck,83.0,83.0,83.0,Cents Per Lb
+2026-05-18,Distillers Grain,Illinois,Dried 10%,Truck,202.5,200.0,205.0,$ Per Ton
+2026-05-18,Distillers Grain,Indiana,Dried 10%,Rail,174.0,174.0,174.0,$ Per Ton
+2026-05-18,Distillers Grain,Indiana,Dried 10%,Truck,184.75,170.0,208.0,$ Per Ton
+2026-05-18,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-18,Distillers Grain,Iowa,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-05-18,Distillers Grain,Iowa,Dried 10%,Truck,168.6,150.0,190.0,$ Per Ton
+2026-05-18,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,45.0,70.0,$ Per Ton
+2026-05-18,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,69.6,55.0,85.0,$ Per Ton
+2026-05-18,Distillers Grain,Kansas,Wet 65-70%,Truck,53.33,40.0,65.0,$ Per Ton
+2026-05-18,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-05-18,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-18,Distillers Grain,Michigan,Dried 10%,Truck,183.5,175.0,208.0,$ Per Ton
+2026-05-18,Distillers Grain,Michigan,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-05-18,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-05-18,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-05-18,Distillers Grain,Minnesota,Dried 10%,Truck,178.0,172.0,180.0,$ Per Ton
+2026-05-18,Distillers Grain,Missouri,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-05-18,Distillers Grain,Missouri,Dried 10%,Truck,186.0,177.0,195.0,$ Per Ton
+2026-05-18,Distillers Grain,N/A,Dried 10%,Rail,245.0,245.0,245.0,$ Per Ton
+2026-05-18,Distillers Grain,N/A,Dried 10%,Ocean Vessel,255.0,255.0,255.0,$ Per Ton
+2026-05-18,Distillers Grain,Nebraska,Wet 65-70%,Truck,60.75,55.0,68.0,$ Per Ton
+2026-05-18,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,80.67,75.0,87.0,$ Per Ton
+2026-05-18,Distillers Grain,Nebraska,Dried 10%,Truck,181.86,165.0,200.0,$ Per Ton
+2026-05-18,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,90.0,90.0,90.0,$ Per Ton
+2026-05-18,Distillers Grain,Ohio,Dried 10%,Truck,193.25,180.0,208.0,$ Per Ton
+2026-05-18,Distillers Grain,Ohio,Dried 10%,Rail,175.0,175.0,175.0,$ Per Ton
+2026-05-18,Distillers Grain,South Dakota,Wet 65-70%,Truck,53.0,52.0,54.0,$ Per Ton
+2026-05-18,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,81.5,78.0,85.0,$ Per Ton
+2026-05-18,Distillers Grain,South Dakota,Dried 10%,Truck,178.33,170.0,185.0,$ Per Ton
+2026-05-18,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,76.0,76.0,76.0,$ Per Ton
+2026-05-18,Distillers Grain,Wisconsin,Dried 10%,Truck,167.0,164.0,170.0,$ Per Ton
+2026-05-18,Ethanol,Illinois,,Truck,1.96,1.96,1.96,$ Per Gallon
+2026-05-18,Ethanol,Illinois,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-05-18,Ethanol,Indiana,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-05-18,Ethanol,Iowa,,Truck,1.85,1.8,1.9,$ Per Gallon
+2026-05-18,Ethanol,Kansas,,Truck,1.8633,1.83,1.88,$ Per Gallon
+2026-05-25,Distillers Corn Oil,Illinois,,Truck,85.0,83.0,88.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Indiana,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Iowa,,Truck,83.5,83.0,84.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Kansas,,Truck,81.0,81.0,81.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Michigan,,Truck,84.2,81.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Minnesota,,Truck,84.5,83.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Missouri,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Nebraska,,Truck,84.88,80.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Ohio,,Truck,85.33,83.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,South Dakota,,Truck,84.0,81.0,87.0,Cents Per Lb
+2026-05-25,Distillers Corn Oil,Wisconsin,,Truck,84.0,84.0,84.0,Cents Per Lb
+2026-05-25,Distillers Grain,Illinois,Dried 10%,Truck,201.5,195.0,208.0,$ Per Ton
+2026-05-25,Distillers Grain,Indiana,Dried 10%,Truck,184.0,170.0,205.0,$ Per Ton
+2026-05-25,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-05-25,Distillers Grain,Indiana,Dried 10%,Rail,174.0,174.0,174.0,$ Per Ton
+2026-05-25,Distillers Grain,Iowa,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-05-25,Distillers Grain,Iowa,Dried 10%,Truck,169.78,155.0,190.0,$ Per Ton
+2026-05-25,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,71.6,60.0,85.0,$ Per Ton
+2026-05-25,Distillers Grain,Iowa,Wet 65-70%,Truck,57.5,45.0,70.0,$ Per Ton
+2026-05-25,Distillers Grain,Kansas,Wet 65-70%,Truck,53.33,40.0,65.0,$ Per Ton
+2026-05-25,Distillers Grain,Kansas,Dried 10%,Truck,177.5,170.0,185.0,$ Per Ton
+2026-05-25,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-05-25,Distillers Grain,Michigan,Dried 10%,Truck,182.75,175.0,205.0,$ Per Ton
+2026-05-25,Distillers Grain,Michigan,Dried 10%,Rail,170.0,170.0,170.0,$ Per Ton
+2026-05-25,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-05-25,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-05-25,Distillers Grain,Minnesota,Dried 10%,Truck,177.5,170.0,180.0,$ Per Ton
+2026-05-25,Distillers Grain,Missouri,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-05-25,Distillers Grain,Missouri,Dried 10%,Truck,190.0,185.0,195.0,$ Per Ton
+2026-05-25,Distillers Grain,N/A,Dried 10%,Ocean Vessel,226.75,224.0,228.0,$ Per Ton
+2026-05-25,Distillers Grain,N/A,Dried 10%,Rail/Barge,204.0,204.0,204.0,$ Per Ton
+2026-05-25,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-05-25,Distillers Grain,Nebraska,Wet 65-70%,Truck,58.33,55.0,65.0,$ Per Ton
+2026-05-25,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,80.67,75.0,87.0,$ Per Ton
+2026-05-25,Distillers Grain,Nebraska,Dried 10%,Truck,179.0,175.0,190.0,$ Per Ton
+2026-05-25,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-05-25,Distillers Grain,Ohio,Dried 10%,Truck,192.0,178.0,205.0,$ Per Ton
+2026-05-25,Distillers Grain,Ohio,Dried 10%,Rail,175.0,175.0,175.0,$ Per Ton
+2026-05-25,Distillers Grain,South Dakota,Wet 65-70%,Truck,53.0,52.0,54.0,$ Per Ton
+2026-05-25,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,80.0,75.0,85.0,$ Per Ton
+2026-05-25,Distillers Grain,South Dakota,Dried 10%,Truck,175.0,165.0,180.0,$ Per Ton
+2026-05-25,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,76.0,76.0,76.0,$ Per Ton
+2026-05-25,Distillers Grain,Wisconsin,Dried 10%,Truck,167.0,164.0,170.0,$ Per Ton
+2026-05-25,Ethanol,Illinois,,Truck,2.01,2.01,2.01,$ Per Gallon
+2026-05-25,Ethanol,Illinois,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-05-25,Ethanol,Indiana,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-05-25,Ethanol,Iowa,,Truck,1.875,1.85,1.9,$ Per Gallon
+2026-05-25,Ethanol,Kansas,,Truck,1.8633,1.83,1.88,$ Per Gallon
+2026-06-01,Distillers Corn Oil,Illinois,,Truck,85.5,83.0,88.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Indiana,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Iowa,,Truck,83.0,83.0,83.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Kansas,,Truck,81.0,81.0,81.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Michigan,,Truck,85.25,83.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Minnesota,,Truck,84.6,83.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Missouri,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Nebraska,,Truck,85.0,80.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Ohio,,Truck,85.33,83.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,South Dakota,,Truck,84.29,81.0,87.0,Cents Per Lb
+2026-06-01,Distillers Corn Oil,Wisconsin,,Truck,84.0,84.0,84.0,Cents Per Lb
+2026-06-01,Distillers Grain,Illinois,Dried 10%,Truck,194.0,190.0,198.0,$ Per Ton
+2026-06-01,Distillers Grain,Indiana,Dried 10%,Rail,168.0,168.0,168.0,$ Per Ton
+2026-06-01,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-06-01,Distillers Grain,Indiana,Dried 10%,Truck,181.75,170.0,202.0,$ Per Ton
+2026-06-01,Distillers Grain,Iowa,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-06-01,Distillers Grain,Iowa,Dried 10%,Truck,168.0,155.0,185.0,$ Per Ton
+2026-06-01,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,67.67,60.0,75.0,$ Per Ton
+2026-06-01,Distillers Grain,Iowa,Wet 65-70%,Truck,56.5,45.0,68.0,$ Per Ton
+2026-06-01,Distillers Grain,Kansas,Dried 10%,Truck,177.5,170.0,185.0,$ Per Ton
+2026-06-01,Distillers Grain,Kansas,Wet 65-70%,Truck,53.0,40.0,65.0,$ Per Ton
+2026-06-01,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-06-01,Distillers Grain,Michigan,Dried 10%,Truck,180.5,170.0,202.0,$ Per Ton
+2026-06-01,Distillers Grain,Michigan,Dried 10%,Rail,170.0,170.0,170.0,$ Per Ton
+2026-06-01,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-01,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-06-01,Distillers Grain,Minnesota,Dried 10%,Truck,173.75,165.0,180.0,$ Per Ton
+2026-06-01,Distillers Grain,Missouri,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-06-01,Distillers Grain,Missouri,Dried 10%,Truck,190.0,185.0,195.0,$ Per Ton
+2026-06-01,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-06-01,Distillers Grain,N/A,Dried 10%,Rail/Barge,204.0,204.0,204.0,$ Per Ton
+2026-06-01,Distillers Grain,N/A,Dried 10%,Ocean Vessel,245.0,245.0,245.0,$ Per Ton
+2026-06-01,Distillers Grain,Nebraska,Wet 65-70%,Truck,58.33,55.0,65.0,$ Per Ton
+2026-06-01,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,79.0,70.0,87.0,$ Per Ton
+2026-06-01,Distillers Grain,Nebraska,Dried 10%,Truck,175.71,165.0,190.0,$ Per Ton
+2026-06-01,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-06-01,Distillers Grain,Ohio,Dried 10%,Rail,172.0,172.0,172.0,$ Per Ton
+2026-06-01,Distillers Grain,Ohio,Dried 10%,Truck,189.5,176.0,202.0,$ Per Ton
+2026-06-01,Distillers Grain,South Dakota,Wet 65-70%,Truck,52.0,52.0,52.0,$ Per Ton
+2026-06-01,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,79.0,73.0,85.0,$ Per Ton
+2026-06-01,Distillers Grain,South Dakota,Dried 10%,Truck,175.0,165.0,180.0,$ Per Ton
+2026-06-01,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,73.0,73.0,73.0,$ Per Ton
+2026-06-01,Distillers Grain,Wisconsin,Dried 10%,Truck,165.0,160.0,170.0,$ Per Ton
+2026-06-01,Ethanol,Illinois,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-06-01,Ethanol,Illinois,,Truck,1.99,1.99,1.99,$ Per Gallon
+2026-06-01,Ethanol,Indiana,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-06-01,Ethanol,Kansas,,Truck,1.8633,1.83,1.88,$ Per Gallon
+2026-06-08,Distillers Corn Oil,Illinois,,Truck,84.5,81.0,88.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Indiana,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Iowa,,Truck,81.0,81.0,81.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Kansas,,Truck,81.0,81.0,81.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Michigan,,Truck,83.25,79.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Minnesota,,Truck,84.67,81.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Missouri,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Nebraska,,Truck,85.5,83.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Ohio,,Truck,86.5,86.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,South Dakota,,Truck,84.75,81.0,87.0,Cents Per Lb
+2026-06-08,Distillers Corn Oil,Wisconsin,,Truck,85.0,85.0,85.0,Cents Per Lb
+2026-06-08,Distillers Grain,Illinois,Dried 10%,Truck,190.0,185.0,195.0,$ Per Ton
+2026-06-08,Distillers Grain,Indiana,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-06-08,Distillers Grain,Indiana,Dried 10%,Truck,173.0,158.0,199.0,$ Per Ton
+2026-06-08,Distillers Grain,Indiana,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-06-08,Distillers Grain,Iowa,Dried 10%,Rail,140.0,140.0,140.0,$ Per Ton
+2026-06-08,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,66.8,58.0,75.0,$ Per Ton
+2026-06-08,Distillers Grain,Iowa,Wet 65-70%,Truck,55.0,45.0,65.0,$ Per Ton
+2026-06-08,Distillers Grain,Iowa,Dried 10%,Truck,158.56,150.0,172.0,$ Per Ton
+2026-06-08,Distillers Grain,Kansas,Wet 65-70%,Truck,54.0,45.0,65.0,$ Per Ton
+2026-06-08,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-06-08,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-06-08,Distillers Grain,Michigan,Dried 10%,Truck,173.0,158.0,199.0,$ Per Ton
+2026-06-08,Distillers Grain,Michigan,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-06-08,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-08,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-06-08,Distillers Grain,Minnesota,Dried 10%,Truck,165.0,155.0,180.0,$ Per Ton
+2026-06-08,Distillers Grain,Missouri,Wet 65-70%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-06-08,Distillers Grain,Missouri,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-06-08,Distillers Grain,N/A,Dried 10%,Ocean Vessel,208.5,196.0,228.0,$ Per Ton
+2026-06-08,Distillers Grain,N/A,Dried 10%,Rail,235.0,235.0,235.0,$ Per Ton
+2026-06-08,Distillers Grain,N/A,Dried 10%,Rail/Barge,204.0,204.0,204.0,$ Per Ton
+2026-06-08,Distillers Grain,Nebraska,Wet 65-70%,Truck,57.5,55.0,60.0,$ Per Ton
+2026-06-08,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,76.0,70.0,82.0,$ Per Ton
+2026-06-08,Distillers Grain,Nebraska,Dried 10%,Truck,165.83,160.0,170.0,$ Per Ton
+2026-06-08,Distillers Grain,Ohio,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-06-08,Distillers Grain,Ohio,Dried 10%,Truck,184.75,165.0,199.0,$ Per Ton
+2026-06-08,Distillers Grain,Ohio,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-06-08,Distillers Grain,South Dakota,Wet 65-70%,Truck,51.0,50.0,52.0,$ Per Ton
+2026-06-08,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,72.5,70.0,75.0,$ Per Ton
+2026-06-08,Distillers Grain,South Dakota,Dried 10%,Truck,165.0,155.0,170.0,$ Per Ton
+2026-06-08,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,71.0,71.0,71.0,$ Per Ton
+2026-06-08,Distillers Grain,Wisconsin,Dried 10%,Truck,163.0,158.0,168.0,$ Per Ton
+2026-06-08,Ethanol,Illinois,,Truck,1.91,1.91,1.91,$ Per Gallon
+2026-06-08,Ethanol,Illinois,,Rail,1.9,1.9,1.9,$ Per Gallon
+2026-06-08,Ethanol,Indiana,,Rail,1.9,1.9,1.9,$ Per Gallon
+2026-06-08,Ethanol,Iowa,,Truck,1.7967,1.75,1.84,$ Per Gallon
+2026-06-08,Ethanol,Iowa,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-06-08,Ethanol,Kansas,,Truck,1.8,1.8,1.8,$ Per Gallon
+2026-06-08,Ethanol,Nebraska,,Truck,1.79,1.79,1.79,$ Per Gallon
+2026-06-08,Ethanol,Nebraska,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-06-15,Distillers Corn Oil,Illinois,,Truck,86.5,83.0,90.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Indiana,,Truck,85.0,84.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Iowa,,Truck,83.0,83.0,83.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Kansas,,Truck,81.0,81.0,81.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Michigan,,Truck,82.75,78.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Minnesota,,Truck,84.33,83.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Missouri,,Truck,85.0,84.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Nebraska,,Truck,84.0,82.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Ohio,,Truck,85.0,84.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,South Dakota,,Truck,81.0,75.0,86.0,Cents Per Lb
+2026-06-15,Distillers Corn Oil,Wisconsin,,Truck,85.0,85.0,85.0,Cents Per Lb
+2026-06-15,Distillers Grain,Illinois,Dried 10%,Truck,179.0,165.0,193.0,$ Per Ton
+2026-06-15,Distillers Grain,Indiana,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-06-15,Distillers Grain,Indiana,Dried 10%,Truck,170.25,155.0,193.0,$ Per Ton
+2026-06-15,Distillers Grain,Iowa,Dried 10%,Rail,140.0,140.0,140.0,$ Per Ton
+2026-06-15,Distillers Grain,Iowa,Wet 65-70%,Truck,55.5,45.0,66.0,$ Per Ton
+2026-06-15,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,64.6,55.0,75.0,$ Per Ton
+2026-06-15,Distillers Grain,Iowa,Dried 10%,Truck,155.11,140.0,167.0,$ Per Ton
+2026-06-15,Distillers Grain,Kansas,Wet 65-70%,Truck,52.0,45.0,59.0,$ Per Ton
+2026-06-15,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-06-15,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-06-15,Distillers Grain,Michigan,Dried 10%,Truck,170.25,158.0,193.0,$ Per Ton
+2026-06-15,Distillers Grain,Michigan,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-06-15,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-15,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-06-15,Distillers Grain,Minnesota,Dried 10%,Truck,156.25,145.0,165.0,$ Per Ton
+2026-06-15,Distillers Grain,Missouri,Wet 65-70%,Truck,54.0,54.0,54.0,$ Per Ton
+2026-06-15,Distillers Grain,Missouri,Dried 10%,Truck,180.0,175.0,185.0,$ Per Ton
+2026-06-15,Distillers Grain,N/A,Dried 10%,Ocean Vessel,198.0,195.0,200.0,$ Per Ton
+2026-06-15,Distillers Grain,N/A,Dried 10%,Rail,230.0,230.0,230.0,$ Per Ton
+2026-06-15,Distillers Grain,Nebraska,Wet 65-70%,Truck,55.75,48.0,60.0,$ Per Ton
+2026-06-15,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,72.67,68.0,80.0,$ Per Ton
+2026-06-15,Distillers Grain,Nebraska,Dried 10%,Truck,159.57,150.0,170.0,$ Per Ton
+2026-06-15,Distillers Grain,Ohio,Dried 10%,Truck,179.5,165.0,193.0,$ Per Ton
+2026-06-15,Distillers Grain,Ohio,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-06-15,Distillers Grain,South Dakota,Wet 65-70%,Truck,51.0,50.0,52.0,$ Per Ton
+2026-06-15,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,72.5,70.0,75.0,$ Per Ton
+2026-06-15,Distillers Grain,South Dakota,Dried 10%,Truck,165.0,155.0,170.0,$ Per Ton
+2026-06-15,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,69.0,69.0,69.0,$ Per Ton
+2026-06-15,Distillers Grain,Wisconsin,Dried 10%,Truck,159.0,150.0,168.0,$ Per Ton
+2026-06-15,Ethanol,Illinois,,Truck,1.88,1.88,1.88,$ Per Gallon
+2026-06-15,Ethanol,Illinois,,Rail,1.86,1.86,1.86,$ Per Gallon
+2026-06-15,Ethanol,Indiana,,Rail,1.86,1.86,1.86,$ Per Gallon
+2026-06-15,Ethanol,Iowa,,Truck,1.7825,1.74,1.84,$ Per Gallon
+2026-06-15,Ethanol,Iowa,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-06-15,Ethanol,Kansas,,Truck,1.75,1.75,1.75,$ Per Gallon
+2026-06-15,Ethanol,Minnesota,,Truck,1.74,1.74,1.74,$ Per Gallon
+2026-06-15,Ethanol,Nebraska,,Truck,1.79,1.79,1.79,$ Per Gallon
+2026-06-15,Ethanol,Nebraska,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-06-15,Ethanol,South Dakota,,Truck,1.73,1.73,1.73,$ Per Gallon
+2026-06-22,Distillers Corn Oil,Illinois,,Truck,84.0,80.0,88.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Indiana,,Truck,79.0,78.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Iowa,,Truck,80.0,80.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Kansas,,Truck,81.0,81.0,81.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Michigan,,Truck,77.75,73.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Minnesota,,Truck,79.33,78.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Missouri,,Truck,79.0,78.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Nebraska,,Truck,80.33,75.0,85.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Ohio,,Truck,79.0,78.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,South Dakota,,Truck,78.0,75.0,80.0,Cents Per Lb
+2026-06-22,Distillers Corn Oil,Wisconsin,,Truck,85.0,85.0,85.0,Cents Per Lb
+2026-06-22,Distillers Grain,Illinois,Dried 10%,Truck,160.0,160.0,160.0,$ Per Ton
+2026-06-22,Distillers Grain,Indiana,Dried 10%,Truck,163.25,145.0,180.0,$ Per Ton
+2026-06-22,Distillers Grain,Indiana,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-06-22,Distillers Grain,Iowa,Dried 10%,Truck,148.78,125.0,165.0,$ Per Ton
+2026-06-22,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,65.6,55.0,75.0,$ Per Ton
+2026-06-22,Distillers Grain,Iowa,Wet 65-70%,Truck,42.5,35.0,50.0,$ Per Ton
+2026-06-22,Distillers Grain,Iowa,Dried 10%,Rail,140.0,140.0,140.0,$ Per Ton
+2026-06-22,Distillers Grain,Kansas,Dried 10%,Truck,167.5,160.0,175.0,$ Per Ton
+2026-06-22,Distillers Grain,Kansas,Wet 65-70%,Truck,49.0,40.0,59.0,$ Per Ton
+2026-06-22,Distillers Grain,Michigan,Dried 10%,Truck,165.75,155.0,180.0,$ Per Ton
+2026-06-22,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-06-22,Distillers Grain,Michigan,Dried 10%,Rail,158.0,158.0,158.0,$ Per Ton
+2026-06-22,Distillers Grain,Minnesota,Dried 10%,Truck,152.5,145.0,165.0,$ Per Ton
+2026-06-22,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-22,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-22,Distillers Grain,Missouri,Dried 10%,Truck,177.5,175.0,180.0,$ Per Ton
+2026-06-22,Distillers Grain,Missouri,Wet 65-70%,Truck,54.0,54.0,54.0,$ Per Ton
+2026-06-22,Distillers Grain,N/A,Dried 10%,Ocean Vessel,180.67,176.0,185.0,$ Per Ton
+2026-06-22,Distillers Grain,N/A,Dried 10%,Rail,220.0,220.0,220.0,$ Per Ton
+2026-06-22,Distillers Grain,Nebraska,Wet 65-70%,Truck,55.75,48.0,60.0,$ Per Ton
+2026-06-22,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,68.67,65.0,73.0,$ Per Ton
+2026-06-22,Distillers Grain,Nebraska,Dried 10%,Truck,155.14,142.0,170.0,$ Per Ton
+2026-06-22,Distillers Grain,Ohio,Dried 10%,Truck,175.0,165.0,185.0,$ Per Ton
+2026-06-22,Distillers Grain,Ohio,Dried 10%,Rail,162.0,162.0,162.0,$ Per Ton
+2026-06-22,Distillers Grain,South Dakota,Wet 65-70%,Truck,51.0,50.0,52.0,$ Per Ton
+2026-06-22,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,70.0,70.0,70.0,$ Per Ton
+2026-06-22,Distillers Grain,South Dakota,Dried 10%,Truck,155.0,140.0,165.0,$ Per Ton
+2026-06-22,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-06-22,Distillers Grain,Wisconsin,Dried 10%,Truck,151.5,135.0,168.0,$ Per Ton
+2026-06-22,Ethanol,Illinois,,Rail,1.82,1.82,1.82,$ Per Gallon
+2026-06-22,Ethanol,Illinois,,Truck,1.8,1.8,1.8,$ Per Gallon
+2026-06-22,Ethanol,Indiana,,Rail,1.82,1.82,1.82,$ Per Gallon
+2026-06-22,Ethanol,Iowa,,Truck,1.775,1.71,1.84,$ Per Gallon
+2026-06-22,Ethanol,Iowa,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-06-22,Ethanol,Kansas,,Truck,1.71,1.68,1.74,$ Per Gallon
+2026-06-22,Ethanol,Minnesota,,Truck,1.71,1.71,1.71,$ Per Gallon
+2026-06-22,Ethanol,Nebraska,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-06-22,Ethanol,Nebraska,,Truck,1.79,1.79,1.79,$ Per Gallon
+2026-06-22,Ethanol,South Dakota,,Truck,1.7,1.7,1.7,$ Per Gallon
+2026-06-29,Distillers Corn Oil,Illinois,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Indiana,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Iowa,,Truck,78.0,78.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Kansas,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Michigan,,Truck,76.0,73.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Minnesota,,Truck,77.0,75.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Missouri,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Nebraska,,Truck,79.5,75.0,85.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Ohio,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,South Dakota,,Truck,76.2,73.0,78.0,Cents Per Lb
+2026-06-29,Distillers Corn Oil,Wisconsin,,Truck,68.0,68.0,68.0,Cents Per Lb
+2026-06-29,Distillers Grain,Illinois,Dried 10%,Truck,158.5,152.0,165.0,$ Per Ton
+2026-06-29,Distillers Grain,Indiana,Dried 10%,Rail,150.0,150.0,150.0,$ Per Ton
+2026-06-29,Distillers Grain,Indiana,Dried 10%,Truck,158.75,145.0,180.0,$ Per Ton
+2026-06-29,Distillers Grain,Iowa,Dried 10%,Rail,140.0,140.0,140.0,$ Per Ton
+2026-06-29,Distillers Grain,Iowa,Dried 10%,Truck,143.56,120.0,155.0,$ Per Ton
+2026-06-29,Distillers Grain,Iowa,Wet 65-70%,Truck,44.5,35.0,54.0,$ Per Ton
+2026-06-29,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,61.5,48.0,68.0,$ Per Ton
+2026-06-29,Distillers Grain,Kansas,Wet 65-70%,Truck,49.67,45.0,56.0,$ Per Ton
+2026-06-29,Distillers Grain,Kansas,Dried 10%,Truck,165.0,155.0,175.0,$ Per Ton
+2026-06-29,Distillers Grain,Michigan,Dried 10%,Rail,150.0,150.0,150.0,$ Per Ton
+2026-06-29,Distillers Grain,Michigan,Dried 10%,Truck,160.5,150.0,180.0,$ Per Ton
+2026-06-29,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-06-29,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-29,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-06-29,Distillers Grain,Minnesota,Dried 10%,Truck,146.75,132.0,155.0,$ Per Ton
+2026-06-29,Distillers Grain,Missouri,Dried 10%,Truck,165.0,155.0,175.0,$ Per Ton
+2026-06-29,Distillers Grain,Missouri,Wet 65-70%,Truck,46.0,46.0,46.0,$ Per Ton
+2026-06-29,Distillers Grain,N/A,Dried 10%,Rail,220.0,220.0,220.0,$ Per Ton
+2026-06-29,Distillers Grain,N/A,Dried 10%,Ocean Vessel,183.0,180.0,185.0,$ Per Ton
+2026-06-29,Distillers Grain,Nebraska,Wet 65-70%,Truck,55.75,48.0,60.0,$ Per Ton
+2026-06-29,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,68.67,65.0,73.0,$ Per Ton
+2026-06-29,Distillers Grain,Nebraska,Dried 10%,Truck,155.43,142.0,172.0,$ Per Ton
+2026-06-29,Distillers Grain,Ohio,Dried 10%,Truck,169.0,156.0,180.0,$ Per Ton
+2026-06-29,Distillers Grain,Ohio,Dried 10%,Rail,156.0,156.0,156.0,$ Per Ton
+2026-06-29,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-06-29,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-06-29,Distillers Grain,South Dakota,Dried 10%,Truck,151.67,145.0,160.0,$ Per Ton
+2026-06-29,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,64.0,64.0,64.0,$ Per Ton
+2026-06-29,Distillers Grain,Wisconsin,Dried 10%,Truck,146.5,133.0,160.0,$ Per Ton
+2026-06-29,Ethanol,Illinois,,Truck,1.85,1.85,1.85,$ Per Gallon
+2026-06-29,Ethanol,Illinois,,Rail,1.84,1.84,1.84,$ Per Gallon
+2026-06-29,Ethanol,Indiana,,Rail,1.84,1.84,1.84,$ Per Gallon
+2026-06-29,Ethanol,Iowa,,Truck,1.7733,1.75,1.8,$ Per Gallon
+2026-06-29,Ethanol,Kansas,,Truck,1.7767,1.75,1.81,$ Per Gallon
+2026-06-29,Ethanol,Minnesota,,Truck,1.77,1.77,1.77,$ Per Gallon
+2026-06-29,Ethanol,South Dakota,,Truck,1.76,1.76,1.76,$ Per Gallon
+2026-07-06,Distillers Corn Oil,Illinois,,Truck,76.0,73.0,79.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Indiana,,Truck,71.5,70.0,73.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Iowa,,Truck,73.0,73.0,73.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Kansas,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Michigan,,Truck,72.25,70.0,73.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Minnesota,,Truck,72.0,70.0,73.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Missouri,,Truck,71.5,70.0,73.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Nebraska,,Truck,72.67,70.0,75.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Ohio,,Truck,71.5,70.0,73.0,Cents Per Lb
+2026-07-06,Distillers Corn Oil,South Dakota,,Truck,72.9,70.0,78.5,Cents Per Lb
+2026-07-06,Distillers Corn Oil,Wisconsin,,Truck,68.0,68.0,68.0,Cents Per Lb
+2026-07-06,Distillers Grain,Illinois,Dried 10%,Truck,178.5,170.0,187.0,$ Per Ton
+2026-07-06,Distillers Grain,Indiana,Dried 10%,Truck,161.25,150.0,175.0,$ Per Ton
+2026-07-06,Distillers Grain,Indiana,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-07-06,Distillers Grain,Iowa,Dried 10%,Rail,125.0,125.0,125.0,$ Per Ton
+2026-07-06,Distillers Grain,Iowa,Wet 65-70%,Truck,45.0,35.0,55.0,$ Per Ton
+2026-07-06,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,60.25,43.0,68.0,$ Per Ton
+2026-07-06,Distillers Grain,Iowa,Dried 10%,Truck,138.33,120.0,155.0,$ Per Ton
+2026-07-06,Distillers Grain,Kansas,Wet 65-70%,Truck,49.33,45.0,55.0,$ Per Ton
+2026-07-06,Distillers Grain,Kansas,Dried 10%,Truck,165.0,155.0,175.0,$ Per Ton
+2026-07-06,Distillers Grain,Michigan,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-07-06,Distillers Grain,Michigan,Dried 10%,Truck,162.5,155.0,175.0,$ Per Ton
+2026-07-06,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-07-06,Distillers Grain,Minnesota,Dried 10%,Truck,146.25,135.0,155.0,$ Per Ton
+2026-07-06,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-06,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-06,Distillers Grain,Missouri,Dried 10%,Truck,170.0,165.0,175.0,$ Per Ton
+2026-07-06,Distillers Grain,Missouri,Wet 65-70%,Truck,51.0,51.0,51.0,$ Per Ton
+2026-07-06,Distillers Grain,N/A,Dried 10%,Rail,230.0,230.0,230.0,$ Per Ton
+2026-07-06,Distillers Grain,N/A,Dried 10%,Ocean Vessel,186.33,180.0,194.0,$ Per Ton
+2026-07-06,Distillers Grain,Nebraska,Wet 65-70%,Truck,54.0,48.0,60.0,$ Per Ton
+2026-07-06,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-07-06,Distillers Grain,Nebraska,Dried 10%,Truck,153.0,142.0,160.0,$ Per Ton
+2026-07-06,Distillers Grain,Ohio,Dried 10%,Truck,168.0,155.0,175.0,$ Per Ton
+2026-07-06,Distillers Grain,Ohio,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-07-06,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-07-06,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-07-06,Distillers Grain,South Dakota,Dried 10%,Truck,155.0,150.0,160.0,$ Per Ton
+2026-07-06,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,64.0,64.0,64.0,$ Per Ton
+2026-07-06,Distillers Grain,Wisconsin,Dried 10%,Truck,147.5,135.0,160.0,$ Per Ton
+2026-07-06,Ethanol,Illinois,,Rail,1.86,1.86,1.86,$ Per Gallon
+2026-07-06,Ethanol,Illinois,,Truck,1.88,1.88,1.88,$ Per Gallon
+2026-07-06,Ethanol,Indiana,,Rail,1.86,1.86,1.86,$ Per Gallon
+2026-07-06,Ethanol,Iowa,,Truck,1.7733,1.75,1.8,$ Per Gallon
+2026-07-06,Ethanol,Kansas,,Truck,1.7767,1.75,1.81,$ Per Gallon
+2026-07-06,Ethanol,Minnesota,,Truck,1.77,1.77,1.77,$ Per Gallon
+2026-07-06,Ethanol,South Dakota,,Truck,1.76,1.76,1.76,$ Per Gallon
+2026-07-13,Distillers Corn Oil,Illinois,,Truck,76.0,73.0,79.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Indiana,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Iowa,,Truck,73.0,73.0,73.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Kansas,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Michigan,,Truck,74.75,73.0,78.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Minnesota,,Truck,75.33,73.0,78.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Missouri,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Nebraska,,Truck,75.6,74.0,78.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Ohio,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,South Dakota,,Truck,75.8,70.0,83.0,Cents Per Lb
+2026-07-13,Distillers Corn Oil,Wisconsin,,Truck,75.0,75.0,75.0,Cents Per Lb
+2026-07-13,Distillers Grain,Illinois,Dried 10%,Truck,177.5,170.0,185.0,$ Per Ton
+2026-07-13,Distillers Grain,Indiana,Dried 10%,Truck,158.25,145.0,178.0,$ Per Ton
+2026-07-13,Distillers Grain,Indiana,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-07-13,Distillers Grain,Iowa,Dried 10%,Rail,125.0,125.0,125.0,$ Per Ton
+2026-07-13,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,60.75,45.0,68.0,$ Per Ton
+2026-07-13,Distillers Grain,Iowa,Dried 10%,Truck,138.88,120.0,154.0,$ Per Ton
+2026-07-13,Distillers Grain,Iowa,Wet 65-70%,Truck,45.0,35.0,55.0,$ Per Ton
+2026-07-13,Distillers Grain,Kansas,Dried 10%,Truck,167.0,164.0,170.0,$ Per Ton
+2026-07-13,Distillers Grain,Kansas,Wet 65-70%,Truck,47.67,42.0,55.0,$ Per Ton
+2026-07-13,Distillers Grain,Michigan,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-07-13,Distillers Grain,Michigan,Dried 10%,Truck,164.5,155.0,178.0,$ Per Ton
+2026-07-13,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-07-13,Distillers Grain,Minnesota,Dried 10%,Truck,147.5,135.0,155.0,$ Per Ton
+2026-07-13,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-13,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-13,Distillers Grain,Missouri,Wet 65-70%,Truck,51.0,51.0,51.0,$ Per Ton
+2026-07-13,Distillers Grain,Missouri,Dried 10%,Truck,170.0,165.0,175.0,$ Per Ton
+2026-07-13,Distillers Grain,N/A,Dried 10%,Ocean Vessel,197.0,192.0,200.0,$ Per Ton
+2026-07-13,Distillers Grain,N/A,Dried 10%,Rail,220.0,220.0,220.0,$ Per Ton
+2026-07-13,Distillers Grain,Nebraska,Wet 65-70%,Truck,45.5,35.0,60.0,$ Per Ton
+2026-07-13,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,60.0,50.0,70.0,$ Per Ton
+2026-07-13,Distillers Grain,Nebraska,Dried 10%,Truck,153.0,142.0,160.0,$ Per Ton
+2026-07-13,Distillers Grain,Ohio,Dried 10%,Truck,167.5,155.0,178.0,$ Per Ton
+2026-07-13,Distillers Grain,Ohio,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-07-13,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-07-13,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-07-13,Distillers Grain,South Dakota,Dried 10%,Truck,155.0,150.0,160.0,$ Per Ton
+2026-07-13,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,64.0,64.0,64.0,$ Per Ton
+2026-07-13,Distillers Grain,Wisconsin,Dried 10%,Truck,142.5,135.0,150.0,$ Per Ton
+2026-07-13,Ethanol,Illinois,,Truck,1.92,1.92,1.92,$ Per Gallon
+2026-07-13,Ethanol,Illinois,,Rail,1.91,1.9,1.92,$ Per Gallon
+2026-07-13,Ethanol,Indiana,,Rail,1.89,1.89,1.89,$ Per Gallon
+2026-07-13,Ethanol,Iowa,,Truck,1.785,1.77,1.8,$ Per Gallon
+2026-07-13,Ethanol,Kansas,,Truck,1.79,1.75,1.81,$ Per Gallon
+2026-07-13,Ethanol,Minnesota,,Truck,1.77,1.77,1.77,$ Per Gallon
+2026-07-13,Ethanol,South Dakota,,Truck,1.76,1.76,1.76,$ Per Gallon
+2026-07-20,Distillers Corn Oil,Illinois,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Indiana,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Iowa,,Truck,77.0,77.0,77.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Kansas,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Michigan,,Truck,76.5,73.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Minnesota,,Truck,77.67,77.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Missouri,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Nebraska,,Truck,76.2,74.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Ohio,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,South Dakota,,Truck,77.2,70.0,83.0,Cents Per Lb
+2026-07-20,Distillers Corn Oil,Wisconsin,,Truck,77.0,77.0,77.0,Cents Per Lb
+2026-07-20,Distillers Grain,Illinois,Dried 10%,Truck,181.5,178.0,185.0,$ Per Ton
+2026-07-20,Distillers Grain,Indiana,Dried 10%,Truck,159.5,150.0,178.0,$ Per Ton
+2026-07-20,Distillers Grain,Indiana,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-07-20,Distillers Grain,Iowa,Dried 10%,Rail,125.0,125.0,125.0,$ Per Ton
+2026-07-20,Distillers Grain,Iowa,Wet 65-70%,Truck,45.5,35.0,56.0,$ Per Ton
+2026-07-20,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,61.5,45.0,68.0,$ Per Ton
+2026-07-20,Distillers Grain,Iowa,Dried 10%,Truck,140.63,120.0,160.0,$ Per Ton
+2026-07-20,Distillers Grain,Kansas,Dried 10%,Truck,167.0,164.0,170.0,$ Per Ton
+2026-07-20,Distillers Grain,Kansas,Wet 65-70%,Truck,47.67,42.0,55.0,$ Per Ton
+2026-07-20,Distillers Grain,Michigan,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-07-20,Distillers Grain,Michigan,Dried 10%,Truck,164.6,160.0,178.0,$ Per Ton
+2026-07-20,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-07-20,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-20,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-20,Distillers Grain,Minnesota,Dried 10%,Truck,142.5,130.0,155.0,$ Per Ton
+2026-07-20,Distillers Grain,Missouri,Dried 10%,Truck,173.5,172.0,175.0,$ Per Ton
+2026-07-20,Distillers Grain,Missouri,Wet 65-70%,Truck,51.0,51.0,51.0,$ Per Ton
+2026-07-20,Distillers Grain,N/A,Dried 10%,Ocean Vessel,203.0,200.0,205.0,$ Per Ton
+2026-07-20,Distillers Grain,N/A,Dried 10%,Rail/Barge,184.0,184.0,184.0,$ Per Ton
+2026-07-20,Distillers Grain,N/A,Dried 10%,Rail,230.0,230.0,230.0,$ Per Ton
+2026-07-20,Distillers Grain,Nebraska,Wet 65-70%,Truck,45.5,35.0,60.0,$ Per Ton
+2026-07-20,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,60.0,50.0,70.0,$ Per Ton
+2026-07-20,Distillers Grain,Nebraska,Dried 10%,Truck,150.83,142.0,162.0,$ Per Ton
+2026-07-20,Distillers Grain,Ohio,Dried 10%,Truck,167.5,155.0,178.0,$ Per Ton
+2026-07-20,Distillers Grain,Ohio,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-07-20,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-07-20,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-07-20,Distillers Grain,South Dakota,Dried 10%,Truck,155.67,150.0,160.0,$ Per Ton
+2026-07-20,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,67.0,67.0,67.0,$ Per Ton
+2026-07-20,Distillers Grain,Wisconsin,Dried 10%,Truck,146.0,142.0,150.0,$ Per Ton
+2026-07-20,Ethanol,Illinois,,Rail,1.915,1.91,1.92,$ Per Gallon
+2026-07-20,Ethanol,Illinois,,Truck,1.89,1.89,1.89,$ Per Gallon
+2026-07-20,Ethanol,Indiana,,Rail,1.88,1.88,1.88,$ Per Gallon
+2026-07-20,Ethanol,Iowa,,Truck,1.79,1.78,1.8,$ Per Gallon
+2026-07-20,Ethanol,Iowa,,Rail,1.76,1.76,1.76,$ Per Gallon
+2026-07-20,Ethanol,Kansas,,Truck,1.81,1.81,1.81,$ Per Gallon
+2026-07-20,Ethanol,Nebraska,,Truck,1.79,1.79,1.79,$ Per Gallon
+2026-07-20,Ethanol,Nebraska,,Rail,1.79,1.79,1.79,$ Per Gallon
+2026-07-27,Distillers Corn Oil,Illinois,,Truck,76.5,74.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Indiana,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Iowa,,Truck,75.71,72.0,80.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Kansas,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Michigan,,Truck,73.4,67.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Minnesota,,Truck,76.67,74.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Missouri,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Nebraska,,Truck,76.2,74.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Ohio,,Truck,78.0,77.0,79.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,South Dakota,,Truck,77.7,74.0,83.0,Cents Per Lb
+2026-07-27,Distillers Corn Oil,Wisconsin,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-07-27,Distillers Grain,Illinois,Dried 10%,Truck,177.5,175.0,180.0,$ Per Ton
+2026-07-27,Distillers Grain,Indiana,Dried 10%,Truck,160.75,150.0,178.0,$ Per Ton
+2026-07-27,Distillers Grain,Indiana,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-07-27,Distillers Grain,Iowa,Wet 65-70%,Truck,44.0,35.0,57.0,$ Per Ton
+2026-07-27,Distillers Grain,Iowa,Dried 10%,Rail,125.0,125.0,125.0,$ Per Ton
+2026-07-27,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,57.33,45.0,65.0,$ Per Ton
+2026-07-27,Distillers Grain,Iowa,Dried 10%,Truck,143.0,125.0,160.0,$ Per Ton
+2026-07-27,Distillers Grain,Kansas,Wet 65-70%,Truck,47.33,40.0,55.0,$ Per Ton
+2026-07-27,Distillers Grain,Kansas,Dried 10%,Truck,170.0,170.0,170.0,$ Per Ton
+2026-07-27,Distillers Grain,Michigan,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-07-27,Distillers Grain,Michigan,Dried 10%,Truck,164.5,160.0,178.0,$ Per Ton
+2026-07-27,Distillers Grain,Minnesota,Dried 10%,Truck,145.0,130.0,160.0,$ Per Ton
+2026-07-27,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-27,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-07-27,Distillers Grain,Missouri,Dried 10%,Truck,173.5,172.0,175.0,$ Per Ton
+2026-07-27,Distillers Grain,Missouri,Wet 65-70%,Truck,51.0,51.0,51.0,$ Per Ton
+2026-07-27,Distillers Grain,N/A,Dried 10%,Rail/Barge,184.0,184.0,184.0,$ Per Ton
+2026-07-27,Distillers Grain,N/A,Dried 10%,Rail,230.0,230.0,230.0,$ Per Ton
+2026-07-27,Distillers Grain,N/A,Dried 10%,Ocean Vessel,229.5,229.0,230.0,$ Per Ton
+2026-07-27,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,64.0,50.0,78.0,$ Per Ton
+2026-07-27,Distillers Grain,Nebraska,Dried 10%,Truck,155.33,142.0,165.0,$ Per Ton
+2026-07-27,Distillers Grain,Nebraska,Wet 65-70%,Truck,46.75,35.0,55.0,$ Per Ton
+2026-07-27,Distillers Grain,Ohio,Dried 10%,Rail,167.0,167.0,167.0,$ Per Ton
+2026-07-27,Distillers Grain,Ohio,Dried 10%,Truck,168.75,160.0,178.0,$ Per Ton
+2026-07-27,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-07-27,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-07-27,Distillers Grain,South Dakota,Dried 10%,Truck,155.67,155.0,157.0,$ Per Ton
+2026-07-27,Distillers Grain,Wisconsin,Dried 10%,Truck,146.0,142.0,150.0,$ Per Ton
+2026-07-27,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,67.0,67.0,67.0,$ Per Ton
+2026-07-27,Ethanol,Illinois,,Rail,1.915,1.91,1.92,$ Per Gallon
+2026-07-27,Ethanol,Illinois,,Truck,1.92,1.92,1.92,$ Per Gallon
+2026-07-27,Ethanol,Indiana,,Rail,1.88,1.88,1.88,$ Per Gallon
+2026-07-27,Ethanol,Iowa,,Rail,1.76,1.76,1.76,$ Per Gallon
+2026-07-27,Ethanol,Iowa,,Truck,1.8,1.77,1.85,$ Per Gallon
+2026-07-27,Ethanol,Kansas,,Truck,1.8333,1.8,1.86,$ Per Gallon
+2026-07-27,Ethanol,Nebraska,,Rail,1.79,1.79,1.79,$ Per Gallon
+2026-07-27,Ethanol,Nebraska,,Truck,1.79,1.79,1.79,$ Per Gallon
+2026-08-03,Distillers Corn Oil,Illinois,,Truck,75.0,74.0,76.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Indiana,,Truck,76.5,76.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Iowa,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Kansas,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Michigan,,Truck,74.75,72.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Minnesota,,Truck,75.67,74.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Missouri,,Truck,76.5,76.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Nebraska,,Truck,74.75,72.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Ohio,,Truck,76.5,76.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,South Dakota,,Truck,75.3,74.0,77.0,Cents Per Lb
+2026-08-03,Distillers Corn Oil,Wisconsin,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-08-03,Distillers Grain,Illinois,Dried 10%,Truck,183.0,178.0,188.0,$ Per Ton
+2026-08-03,Distillers Grain,Indiana,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-08-03,Distillers Grain,Indiana,Dried 10%,Truck,160.25,150.0,178.0,$ Per Ton
+2026-08-03,Distillers Grain,Iowa,Dried 10%,Rail,134.0,134.0,134.0,$ Per Ton
+2026-08-03,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,63.2,45.0,70.0,$ Per Ton
+2026-08-03,Distillers Grain,Iowa,Dried 10%,Truck,139.7,125.0,162.0,$ Per Ton
+2026-08-03,Distillers Grain,Iowa,Wet 65-70%,Truck,44.67,35.0,59.0,$ Per Ton
+2026-08-03,Distillers Grain,Kansas,Wet 65-70%,Truck,47.67,40.0,56.0,$ Per Ton
+2026-08-03,Distillers Grain,Kansas,Dried 10%,Truck,170.0,170.0,170.0,$ Per Ton
+2026-08-03,Distillers Grain,Michigan,Dried 10%,Truck,164.2,158.0,178.0,$ Per Ton
+2026-08-03,Distillers Grain,Michigan,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-08-03,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-03,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-03,Distillers Grain,Minnesota,Dried 10%,Truck,146.25,135.0,160.0,$ Per Ton
+2026-08-03,Distillers Grain,Missouri,Wet 65-70%,Truck,49.0,49.0,49.0,$ Per Ton
+2026-08-03,Distillers Grain,Missouri,Dried 10%,Truck,170.0,165.0,175.0,$ Per Ton
+2026-08-03,Distillers Grain,N/A,Dried 10%,Ocean Vessel,204.5,202.0,208.0,$ Per Ton
+2026-08-03,Distillers Grain,N/A,Dried 10%,Rail/Barge,184.0,184.0,184.0,$ Per Ton
+2026-08-03,Distillers Grain,N/A,Dried 10%,Rail,225.0,225.0,225.0,$ Per Ton
+2026-08-03,Distillers Grain,Nebraska,Wet 65-70%,Truck,55.0,50.0,60.0,$ Per Ton
+2026-08-03,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,68.0,57.0,79.0,$ Per Ton
+2026-08-03,Distillers Grain,Nebraska,Dried 10%,Truck,158.4,145.0,165.0,$ Per Ton
+2026-08-03,Distillers Grain,Ohio,Dried 10%,Truck,168.75,162.0,178.0,$ Per Ton
+2026-08-03,Distillers Grain,Ohio,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-08-03,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-08-03,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-08-03,Distillers Grain,South Dakota,Dried 10%,Truck,154.33,153.0,155.0,$ Per Ton
+2026-08-03,Distillers Grain,Wisconsin,Dried 10%,Truck,146.0,142.0,150.0,$ Per Ton
+2026-08-03,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-08-03,Ethanol,Illinois,,Truck,1.94,1.94,1.94,$ Per Gallon
+2026-08-03,Ethanol,Illinois,,Rail,1.96,1.96,1.96,$ Per Gallon
+2026-08-03,Ethanol,Indiana,,Rail,1.95,1.95,1.95,$ Per Gallon
+2026-08-03,Ethanol,Iowa,,Truck,1.8075,1.77,1.85,$ Per Gallon
+2026-08-03,Ethanol,Iowa,,Rail,1.785,1.77,1.8,$ Per Gallon
+2026-08-03,Ethanol,Kansas,,Truck,1.8467,1.82,1.88,$ Per Gallon
+2026-08-03,Ethanol,Nebraska,,Rail,1.79,1.79,1.79,$ Per Gallon
+2026-08-03,Ethanol,Nebraska,,Truck,1.77,1.77,1.77,$ Per Gallon
+2026-08-10,Distillers Corn Oil,Illinois,,Truck,75.5,74.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Indiana,,Truck,76.0,75.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Iowa,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Kansas,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Michigan,,Truck,74.5,72.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Minnesota,,Truck,75.33,74.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Missouri,,Truck,76.0,75.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Nebraska,,Truck,74.4,72.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Ohio,,Truck,76.0,75.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,South Dakota,,Truck,74.8,72.0,77.0,Cents Per Lb
+2026-08-10,Distillers Corn Oil,Wisconsin,,Truck,69.0,69.0,69.0,Cents Per Lb
+2026-08-10,Distillers Grain,Illinois,Dried 10%,Truck,181.5,178.0,185.0,$ Per Ton
+2026-08-10,Distillers Grain,Indiana,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-08-10,Distillers Grain,Indiana,Dried 10%,Truck,161.5,150.0,178.0,$ Per Ton
+2026-08-10,Distillers Grain,Iowa,Dried 10%,Rail,139.0,139.0,139.0,$ Per Ton
+2026-08-10,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,64.4,45.0,74.0,$ Per Ton
+2026-08-10,Distillers Grain,Iowa,Dried 10%,Truck,142.9,125.0,162.0,$ Per Ton
+2026-08-10,Distillers Grain,Iowa,Wet 65-70%,Truck,47.0,30.0,64.0,$ Per Ton
+2026-08-10,Distillers Grain,Kansas,Dried 10%,Truck,170.0,170.0,170.0,$ Per Ton
+2026-08-10,Distillers Grain,Kansas,Wet 65-70%,Truck,47.67,40.0,56.0,$ Per Ton
+2026-08-10,Distillers Grain,Michigan,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-08-10,Distillers Grain,Michigan,Dried 10%,Truck,164.6,155.0,178.0,$ Per Ton
+2026-08-10,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-10,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-10,Distillers Grain,Minnesota,Dried 10%,Truck,148.75,135.0,160.0,$ Per Ton
+2026-08-10,Distillers Grain,Missouri,Dried 10%,Truck,180.0,175.0,185.0,$ Per Ton
+2026-08-10,Distillers Grain,Missouri,Wet 65-70%,Truck,49.0,49.0,49.0,$ Per Ton
+2026-08-10,Distillers Grain,N/A,Dried 10%,Rail,225.0,225.0,225.0,$ Per Ton
+2026-08-10,Distillers Grain,N/A,Dried 10%,Ocean Vessel,207.0,202.0,214.0,$ Per Ton
+2026-08-10,Distillers Grain,Nebraska,Wet 65-70%,Truck,46.83,30.0,60.0,$ Per Ton
+2026-08-10,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,69.5,60.0,79.0,$ Per Ton
+2026-08-10,Distillers Grain,Nebraska,Dried 10%,Truck,159.5,145.0,165.0,$ Per Ton
+2026-08-10,Distillers Grain,Ohio,Dried 10%,Truck,170.0,165.0,178.0,$ Per Ton
+2026-08-10,Distillers Grain,Ohio,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-08-10,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-08-10,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-08-10,Distillers Grain,South Dakota,Dried 10%,Truck,154.33,150.0,158.0,$ Per Ton
+2026-08-10,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-08-10,Distillers Grain,Wisconsin,Dried 10%,Truck,146.0,142.0,150.0,$ Per Ton
+2026-08-10,Ethanol,Illinois,,Truck,1.98,1.98,1.98,$ Per Gallon
+2026-08-10,Ethanol,Illinois,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-08-10,Ethanol,Indiana,,Rail,1.95,1.95,1.95,$ Per Gallon
+2026-08-10,Ethanol,Iowa,,Truck,1.8333,1.82,1.86,$ Per Gallon
+2026-08-10,Ethanol,Iowa,,Rail,1.8,1.8,1.8,$ Per Gallon
+2026-08-10,Ethanol,Kansas,,Truck,1.9,1.87,1.93,$ Per Gallon
+2026-08-10,Ethanol,Nebraska,,Truck,1.82,1.82,1.82,$ Per Gallon
+2026-08-10,Ethanol,Nebraska,,Rail,1.83,1.83,1.83,$ Per Gallon
+2026-08-17,Distillers Corn Oil,Illinois,,Truck,77.0,76.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Indiana,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Iowa,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Kansas,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Michigan,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Minnesota,,Truck,77.0,76.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Missouri,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Nebraska,,Truck,75.4,73.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Ohio,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,South Dakota,,Truck,75.8,72.0,78.0,Cents Per Lb
+2026-08-17,Distillers Corn Oil,Wisconsin,,Truck,69.0,69.0,69.0,Cents Per Lb
+2026-08-17,Distillers Grain,Illinois,Dried 10%,Truck,187.5,185.0,190.0,$ Per Ton
+2026-08-17,Distillers Grain,Indiana,Dried 10%,Truck,163.75,150.0,180.0,$ Per Ton
+2026-08-17,Distillers Grain,Indiana,Dried 10%,Rail,160.0,160.0,160.0,$ Per Ton
+2026-08-17,Distillers Grain,Iowa,Dried 10%,Rail,140.0,140.0,140.0,$ Per Ton
+2026-08-17,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,63.6,50.0,70.0,$ Per Ton
+2026-08-17,Distillers Grain,Iowa,Dried 10%,Truck,150.0,140.0,165.0,$ Per Ton
+2026-08-17,Distillers Grain,Iowa,Wet 65-70%,Truck,44.0,30.0,58.0,$ Per Ton
+2026-08-17,Distillers Grain,Kansas,Wet 65-70%,Truck,56.5,56.0,57.0,$ Per Ton
+2026-08-17,Distillers Grain,Kansas,Dried 10%,Truck,185.0,185.0,185.0,$ Per Ton
+2026-08-17,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,62.0,62.0,62.0,$ Per Ton
+2026-08-17,Distillers Grain,Michigan,Dried 10%,Truck,169.0,165.0,180.0,$ Per Ton
+2026-08-17,Distillers Grain,Michigan,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-08-17,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-17,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-17,Distillers Grain,Minnesota,Dried 10%,Truck,151.25,140.0,165.0,$ Per Ton
+2026-08-17,Distillers Grain,Missouri,Wet 65-70%,Truck,49.0,49.0,49.0,$ Per Ton
+2026-08-17,Distillers Grain,Missouri,Dried 10%,Truck,180.0,175.0,185.0,$ Per Ton
+2026-08-17,Distillers Grain,N/A,Dried 10%,Ocean Vessel,207.0,202.0,214.0,$ Per Ton
+2026-08-17,Distillers Grain,N/A,Dried 10%,Rail,230.0,230.0,230.0,$ Per Ton
+2026-08-17,Distillers Grain,Nebraska,Wet 65-70%,Truck,46.83,30.0,60.0,$ Per Ton
+2026-08-17,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,67.0,55.0,79.0,$ Per Ton
+2026-08-17,Distillers Grain,Nebraska,Dried 10%,Truck,165.0,160.0,170.0,$ Per Ton
+2026-08-17,Distillers Grain,Ohio,Dried 10%,Truck,174.25,167.0,180.0,$ Per Ton
+2026-08-17,Distillers Grain,Ohio,Dried 10%,Rail,155.0,155.0,155.0,$ Per Ton
+2026-08-17,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-08-17,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-08-17,Distillers Grain,South Dakota,Dried 10%,Truck,156.0,150.0,160.0,$ Per Ton
+2026-08-17,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,68.0,68.0,68.0,$ Per Ton
+2026-08-17,Distillers Grain,Wisconsin,Dried 10%,Truck,146.0,142.0,150.0,$ Per Ton
+2026-08-17,Ethanol,Illinois,,Rail,2.0,1.97,2.03,$ Per Gallon
+2026-08-17,Ethanol,Illinois,,Truck,2.03,2.03,2.03,$ Per Gallon
+2026-08-17,Ethanol,Iowa,,Truck,1.85,1.82,1.87,$ Per Gallon
+2026-08-17,Ethanol,Iowa,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-08-17,Ethanol,Kansas,,Truck,1.96,1.94,2.0,$ Per Gallon
+2026-08-17,Ethanol,Nebraska,,Truck,1.84,1.84,1.84,$ Per Gallon
+2026-08-17,Ethanol,Nebraska,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-08-24,Distillers Corn Oil,Illinois,,Truck,72.0,71.0,73.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Indiana,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Iowa,,Truck,74.43,70.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Kansas,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Michigan,,Truck,75.25,71.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Minnesota,,Truck,75.33,71.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Missouri,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Nebraska,,Truck,75.4,73.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Ohio,,Truck,77.5,77.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,South Dakota,,Truck,73.8,71.0,78.0,Cents Per Lb
+2026-08-24,Distillers Corn Oil,Wisconsin,,Truck,71.0,71.0,71.0,Cents Per Lb
+2026-08-24,Distillers Grain,Illinois,Dried 10%,Truck,195.0,190.0,200.0,$ Per Ton
+2026-08-24,Distillers Grain,Indiana,Dried 10%,Truck,170.0,155.0,185.0,$ Per Ton
+2026-08-24,Distillers Grain,Indiana,Dried 10%,Rail,172.0,172.0,172.0,$ Per Ton
+2026-08-24,Distillers Grain,Iowa,Dried 10%,Rail,150.0,150.0,150.0,$ Per Ton
+2026-08-24,Distillers Grain,Iowa,Dried 10%,Truck,155.0,130.0,178.0,$ Per Ton
+2026-08-24,Distillers Grain,Iowa,Wet 65-70%,Truck,46.0,30.0,62.0,$ Per Ton
+2026-08-24,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,64.6,50.0,70.0,$ Per Ton
+2026-08-24,Distillers Grain,Kansas,Dried 10%,Truck,190.5,185.0,196.0,$ Per Ton
+2026-08-24,Distillers Grain,Kansas,Wet 65-70%,Truck,54.33,45.0,60.0,$ Per Ton
+2026-08-24,Distillers Grain,Michigan,Dried 10%,Rail,170.0,170.0,170.0,$ Per Ton
+2026-08-24,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-08-24,Distillers Grain,Michigan,Dried 10%,Truck,173.4,165.0,185.0,$ Per Ton
+2026-08-24,Distillers Grain,Minnesota,Dried 10%,Truck,163.75,150.0,175.0,$ Per Ton
+2026-08-24,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-24,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-24,Distillers Grain,Missouri,Dried 10%,Truck,202.5,190.0,215.0,$ Per Ton
+2026-08-24,Distillers Grain,Missouri,Wet 65-70%,Truck,52.0,52.0,52.0,$ Per Ton
+2026-08-24,Distillers Grain,N/A,Dried 10%,Ocean Vessel,219.33,213.0,225.0,$ Per Ton
+2026-08-24,Distillers Grain,N/A,Dried 10%,Rail,240.0,240.0,240.0,$ Per Ton
+2026-08-24,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,70.5,55.0,86.0,$ Per Ton
+2026-08-24,Distillers Grain,Nebraska,Dried 10%,Truck,179.0,170.0,195.0,$ Per Ton
+2026-08-24,Distillers Grain,Nebraska,Wet 65-70%,Truck,49.83,45.0,58.0,$ Per Ton
+2026-08-24,Distillers Grain,Ohio,Dried 10%,Truck,180.75,178.0,185.0,$ Per Ton
+2026-08-24,Distillers Grain,Ohio,Dried 10%,Rail,173.0,173.0,173.0,$ Per Ton
+2026-08-24,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-08-24,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,72.5,70.0,75.0,$ Per Ton
+2026-08-24,Distillers Grain,South Dakota,Dried 10%,Truck,170.0,165.0,180.0,$ Per Ton
+2026-08-24,Distillers Grain,Wisconsin,Dried 10%,Truck,159.5,159.0,160.0,$ Per Ton
+2026-08-24,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,72.0,72.0,72.0,$ Per Ton
+2026-08-24,Ethanol,Illinois,,Truck,2.08,2.08,2.08,$ Per Gallon
+2026-08-24,Ethanol,Illinois,,Rail,1.97,1.97,1.97,$ Per Gallon
+2026-08-24,Ethanol,Indiana,,Rail,2.01,2.01,2.01,$ Per Gallon
+2026-08-24,Ethanol,Iowa,,Truck,1.85,1.82,1.87,$ Per Gallon
+2026-08-24,Ethanol,Iowa,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-08-24,Ethanol,Kansas,,Truck,1.9667,1.94,2.0,$ Per Gallon
+2026-08-24,Ethanol,Nebraska,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-08-24,Ethanol,Nebraska,,Truck,1.84,1.84,1.84,$ Per Gallon
+2026-08-31,Distillers Corn Oil,Illinois,,Truck,72.5,71.0,74.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Indiana,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Iowa,,Truck,71.0,71.0,71.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Kansas,,Truck,76.0,76.0,76.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Michigan,,Truck,74.75,71.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Minnesota,,Truck,74.67,71.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Missouri,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Nebraska,,Truck,76.25,74.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Ohio,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,South Dakota,,Truck,73.8,71.0,78.0,Cents Per Lb
+2026-08-31,Distillers Corn Oil,Wisconsin,,Truck,71.0,71.0,71.0,Cents Per Lb
+2026-08-31,Distillers Grain,Illinois,Dried 10%,Truck,210.0,195.0,220.0,$ Per Ton
+2026-08-31,Distillers Grain,Indiana,Dried 10%,Rail,172.0,172.0,172.0,$ Per Ton
+2026-08-31,Distillers Grain,Indiana,Dried 10%,Truck,173.75,155.0,195.0,$ Per Ton
+2026-08-31,Distillers Grain,Iowa,Dried 10%,Rail,150.0,150.0,150.0,$ Per Ton
+2026-08-31,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,73.6,55.0,90.0,$ Per Ton
+2026-08-31,Distillers Grain,Iowa,Dried 10%,Truck,165.8,130.0,185.0,$ Per Ton
+2026-08-31,Distillers Grain,Iowa,Wet 65-70%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-08-31,Distillers Grain,Kansas,Wet 65-70%,Truck,56.67,45.0,67.0,$ Per Ton
+2026-08-31,Distillers Grain,Kansas,Dried 10%,Truck,187.5,185.0,190.0,$ Per Ton
+2026-08-31,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-08-31,Distillers Grain,Michigan,Dried 10%,Truck,180.75,175.0,195.0,$ Per Ton
+2026-08-31,Distillers Grain,Michigan,Dried 10%,Rail,170.0,170.0,170.0,$ Per Ton
+2026-08-31,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-31,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-08-31,Distillers Grain,Minnesota,Dried 10%,Truck,165.75,150.0,180.0,$ Per Ton
+2026-08-31,Distillers Grain,Missouri,Wet 65-70%,Truck,61.0,61.0,61.0,$ Per Ton
+2026-08-31,Distillers Grain,Missouri,Dried 10%,Truck,202.5,190.0,215.0,$ Per Ton
+2026-08-31,Distillers Grain,N/A,Dried 10%,Ocean Vessel,268.0,268.0,268.0,$ Per Ton
+2026-08-31,Distillers Grain,N/A,Dried 10%,Rail,235.0,235.0,235.0,$ Per Ton
+2026-08-31,Distillers Grain,Nebraska,Wet 65-70%,Truck,59.0,50.0,65.0,$ Per Ton
+2026-08-31,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,71.0,55.0,87.0,$ Per Ton
+2026-08-31,Distillers Grain,Nebraska,Dried 10%,Truck,184.0,175.0,195.0,$ Per Ton
+2026-08-31,Distillers Grain,Ohio,Dried 10%,Truck,183.25,178.0,195.0,$ Per Ton
+2026-08-31,Distillers Grain,Ohio,Dried 10%,Rail,173.0,173.0,173.0,$ Per Ton
+2026-08-31,Distillers Grain,South Dakota,Wet 65-70%,Truck,48.5,45.0,52.0,$ Per Ton
+2026-08-31,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,67.5,65.0,70.0,$ Per Ton
+2026-08-31,Distillers Grain,South Dakota,Dried 10%,Truck,173.33,165.0,180.0,$ Per Ton
+2026-08-31,Distillers Grain,Wisconsin,Dried 10%,Truck,165.0,165.0,165.0,$ Per Ton
+2026-08-31,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-08-31,Ethanol,Illinois,,Rail,2.03,2.03,2.03,$ Per Gallon
+2026-08-31,Ethanol,Illinois,,Truck,2.05,2.05,2.05,$ Per Gallon
+2026-08-31,Ethanol,Iowa,,Truck,1.94,1.87,2.0,$ Per Gallon
+2026-08-31,Ethanol,Iowa,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-08-31,Ethanol,Kansas,,Truck,1.98,1.94,2.0,$ Per Gallon
+2026-08-31,Ethanol,Nebraska,,Truck,1.84,1.84,1.84,$ Per Gallon
+2026-08-31,Ethanol,Nebraska,,Rail,1.87,1.87,1.87,$ Per Gallon
+2026-09-07,Distillers Corn Oil,Illinois,,Truck,75.5,74.0,77.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Indiana,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Iowa,,Truck,74.0,74.0,74.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Kansas,,Truck,74.5,74.5,74.5,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Michigan,,Truck,75.5,74.0,78.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Minnesota,,Truck,75.67,74.0,78.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Missouri,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Nebraska,,Truck,76.25,74.0,78.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Ohio,,Truck,76.5,75.0,78.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,South Dakota,,Truck,76.0,74.0,79.0,Cents Per Lb
+2026-09-07,Distillers Corn Oil,Wisconsin,,Truck,71.0,71.0,71.0,Cents Per Lb
+2026-09-07,Distillers Grain,Illinois,Dried 10%,Truck,205.0,195.0,215.0,$ Per Ton
+2026-09-07,Distillers Grain,Indiana,Dried 10%,Rail,172.0,172.0,172.0,$ Per Ton
+2026-09-07,Distillers Grain,Indiana,Dried 10%,Truck,178.75,170.0,195.0,$ Per Ton
+2026-09-07,Distillers Grain,Iowa,Dried 10%,Rail,165.0,165.0,165.0,$ Per Ton
+2026-09-07,Distillers Grain,Iowa,Dried 10%,Truck,167.7,130.0,185.0,$ Per Ton
+2026-09-07,Distillers Grain,Iowa,Modified Wet 55-60%,Truck,72.6,50.0,90.0,$ Per Ton
+2026-09-07,Distillers Grain,Iowa,Wet 65-70%,Truck,65.0,65.0,65.0,$ Per Ton
+2026-09-07,Distillers Grain,Kansas,Dried 10%,Truck,189.0,188.0,190.0,$ Per Ton
+2026-09-07,Distillers Grain,Kansas,Wet 65-70%,Truck,59.33,48.0,67.0,$ Per Ton
+2026-09-07,Distillers Grain,Michigan,Modified Wet 55-60%,Truck,60.0,60.0,60.0,$ Per Ton
+2026-09-07,Distillers Grain,Michigan,Dried 10%,Truck,181.25,175.0,195.0,$ Per Ton
+2026-09-07,Distillers Grain,Michigan,Dried 10%,Rail,170.0,170.0,170.0,$ Per Ton
+2026-09-07,Distillers Grain,Minnesota,Wet 65-70%,Truck,50.0,50.0,50.0,$ Per Ton
+2026-09-07,Distillers Grain,Minnesota,Modified Wet 55-60%,Truck,55.0,55.0,55.0,$ Per Ton
+2026-09-07,Distillers Grain,Minnesota,Dried 10%,Truck,171.25,160.0,180.0,$ Per Ton
+2026-09-07,Distillers Grain,Missouri,Wet 65-70%,Truck,61.0,61.0,61.0,$ Per Ton
+2026-09-07,Distillers Grain,Missouri,Dried 10%,Truck,210.0,205.0,215.0,$ Per Ton
+2026-09-07,Distillers Grain,N/A,Dried 10%,Rail,250.0,250.0,250.0,$ Per Ton
+2026-09-07,Distillers Grain,N/A,Dried 10%,Ocean Vessel,243.33,240.0,245.0,$ Per Ton
+2026-09-07,Distillers Grain,Nebraska,Wet 65-70%,Truck,59.0,50.0,65.0,$ Per Ton
+2026-09-07,Distillers Grain,Nebraska,Modified Wet 55-60%,Truck,73.5,60.0,87.0,$ Per Ton
+2026-09-07,Distillers Grain,Nebraska,Dried 10%,Truck,187.0,175.0,200.0,$ Per Ton
+2026-09-07,Distillers Grain,Ohio,Dried 10%,Truck,188.25,180.0,195.0,$ Per Ton
+2026-09-07,Distillers Grain,Ohio,Dried 10%,Rail,173.0,173.0,173.0,$ Per Ton
+2026-09-07,Distillers Grain,South Dakota,Wet 65-70%,Truck,51.0,50.0,52.0,$ Per Ton
+2026-09-07,Distillers Grain,South Dakota,Modified Wet 55-60%,Truck,82.0,80.0,84.0,$ Per Ton
+2026-09-07,Distillers Grain,South Dakota,Dried 10%,Truck,183.33,170.0,195.0,$ Per Ton
+2026-09-07,Distillers Grain,Wisconsin,Modified Wet 55-60%,Truck,75.0,75.0,75.0,$ Per Ton
+2026-09-07,Distillers Grain,Wisconsin,Dried 10%,Truck,165.0,165.0,165.0,$ Per Ton
+2026-09-07,Ethanol,Illinois,,Truck,2.05,2.05,2.05,$ Per Gallon
+2026-09-07,Ethanol,Illinois,,Rail,2.03,2.03,2.03,$ Per Gallon
+2026-09-07,Ethanol,Iowa,,Truck,1.975,1.95,2.0,$ Per Gallon
+2026-09-07,Ethanol,Kansas,,Truck,1.9967,1.94,2.06,$ Per Gallon
