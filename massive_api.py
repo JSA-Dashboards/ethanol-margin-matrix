@@ -13,7 +13,7 @@ BASE_URL = "https://api.massive.com/futures/v1"
 
 _MONTH_CODES = "FGHJKMNQUVXZ"
 CONTRACT_LOOKBACK_DAYS = 7
-_TICKER_RE = re.compile(r"^([A-Z]{1,3})([FGHJKMNQUVXZ])(\d)$")
+_TICKER_RE = re.compile(r"^([A-Z]{1,3})([FGHJKMNQUVXZ])(\d{1,2})$")
 
 
 class MassiveApiError(RuntimeError):
@@ -43,7 +43,11 @@ def get_active_contract_tickers(product_code: str, api_key: str, as_of: date, li
 
     Massive only lists contracts for dates it has published. A date it hasn't reached
     yet (a server clock on UTC rolls over at 7pm Central) or a non-trading day returns
-    an empty list, so step back a day at a time to the latest listed date."""
+    an empty list, so step back a day at a time to the latest listed date.
+
+    `type: "single"` is required for products with heavy spread/combo listings (e.g. NG's
+    butterflies and calendar spreads) — without it those combos crowd out the outrights
+    even at a high limit, and the endpoint returns zero single-leg contracts."""
     data: dict = {}
     for back in range(CONTRACT_LOOKBACK_DAYS + 1):
         data = _get(
@@ -52,6 +56,7 @@ def get_active_contract_tickers(product_code: str, api_key: str, as_of: date, li
             params={
                 "product_code": product_code,
                 "active": "true",
+                "type": "single",
                 "date": (as_of - timedelta(days=back)).isoformat(),
                 "limit": limit,
             },
